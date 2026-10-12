@@ -1,0 +1,226 @@
+{
+  "radix-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.1}",
+    "$description": "App background"
+  },
+  "radix-bg-subtle": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.2}",
+    "$description": "Subtle app background"
+  },
+  "radix-interactive": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.3}",
+    "$description": "UI element background"
+  },
+  "radix-interactive-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.4}",
+    "$description": "Hovered UI element background"
+  },
+  "radix-interactive-active": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.5}",
+    "$description": "Active / selected UI element background"
+  },
+  "radix-border": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.6}",
+    "$description": "Subtle borders and separators"
+  },
+  "radix-border-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.8}",
+    "$description": "Hovered UI element border"
+  },
+  "radix-ring": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.7}",
+    "$description": "UI element border and focus rings"
+  },
+  "radix-primary": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.9}",
+    "$description": "Solid backgrounds"
+  },
+  "radix-primary-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.10}",
+    "$description": "Hovered solid backgrounds"
+  },
+  "radix-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.12}",
+    "$description": "High-contrast accessible text"
+  },
+  "radix-text-subtle": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{indigo.11}",
+    "$description": "Low contrast accessible text"
+  },
+  "radix-error-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{tomato.9}",
+    "$description": "Solid error backgrounds"
+  },
+  "radix-error-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{tomato.12}",
+    "$description": "Text on solid error backgrounds"
+  },
+  "radix-success-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{grass.9}",
+    "$description": "Solid success backgrounds"
+  },
+  "radix-success-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{grass.12}",
+    "$description": "Text on solid success backgrounds"
+  },
+  "radix-warning-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{amber.9}",
+    "$description": "Solid warning backgrounds"
+  },
+  "radix-warning-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{sand.1}",
+    "$description": "Text on solid warning backgrounds"
+  },
+  "radix-info-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{blue.9}",
+    "$description": "Solid info backgrounds"
+  },
+  "radix-info-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{blue.12}",
+    "$description": "Text on info backgrounds"
+  },
+  "radix-error-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{tomato.10}",
+    "$description": "Hovered error backgrounds"
+  },
+  "radix-success-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{grass.10}",
+    "$description": "Hovered success backgrounds"
+  },
+  "radix-warning-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{amber.10}",
+    "$description": "Hovered warning backgrounds"
+  },
+  "radix-info-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{blue.10}",
+    "$description": "Hovered info backgrounds"
+  },
+  "radix-pending-bg": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{amber.9}",
+    "$description": "Solid pending backgrounds"
+  },
+  "radix-pending-hover": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{amber.10}",
+    "$description": "Hovered pending backgrounds"
+  },
+  "radix-pending-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{sand.1}",
+    "$description": "Text on pending backgrounds"
+  },
+  "radix-primary-text": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "color",
+    "$value": "{white.A12}",
+    "$description": "Text on accent solid backgrounds"
+  }
+}

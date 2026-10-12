@@ -1,0 +1,52 @@
+{
+  "container-padding-mobile": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{gap.gap-4}"
+  },
+  "container-padding-desktop": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "GAP"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{gap.gap-8}"
+  },
+  "container-max-width-desktop": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 1280
+  },
+  "container-max-width-table": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 768
+  },
+  "container-max-width-phone": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 384
+  }
+}

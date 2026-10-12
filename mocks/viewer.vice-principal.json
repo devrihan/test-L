@@ -1,0 +1,17 @@
+{
+  "userId": "vp-001",
+  "displayName": "Anita Menon",
+  "organization": "Delhi Public School",
+  "roleLabel": "Vice-principal",
+  "capabilities": {
+    "view_class_aggregate": true,
+    "view_cohort_analysis": true,
+    "view_student_roster": true,
+    "view_cross_subject_summary": false,
+    "view_subject_directory": true,
+    "switch_to_teacher_view": true
+  },
+  "questionsView": "analysis",
+  "navView": "leadership",
+  "scope": { "kind": "org" }
+}

@@ -1,0 +1,22 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "_TW Color Primitives/Mode 1",
+    "Radix Colours (Additional)/light",
+    "Radix Colours (Additional)/dark",
+    "Radix Themes (Additional)/accent/indigo/light",
+    "Radix Themes (Additional)/accent/indigo/dark",
+    "Radix Themes (Additional)/gray/slate/light",
+    "Radix Themes (Additional)/gray/slate/dark",
+    "2. Components/Mode 1",
+    "1. shadcn/ui - color modes/light/slate",
+    "1. shadcn/ui - color modes/light/zinc",
+    "1. shadcn/ui - color modes/dark/slate",
+    "1. shadcn/ui - color modes/dark/zinc",
+    "_TW Primitives/Mode 1",
+    "4. Spacing/Mode 1",
+    "3. Radius/Mode 1",
+    "5. Containers/Mode 1",
+    "6. Inferentics Colors/Mode 1"
+  ]
+}

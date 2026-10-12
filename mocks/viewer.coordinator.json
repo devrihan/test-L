@@ -1,0 +1,17 @@
+{
+  "userId": "co-001",
+  "displayName": "Priya Nair",
+  "organization": "Delhi Public School",
+  "roleLabel": "Coordinator",
+  "capabilities": {
+    "view_class_aggregate": true,
+    "view_cohort_analysis": true,
+    "view_student_roster": true,
+    "view_cross_subject_summary": false,
+    "view_subject_directory": true,
+    "switch_to_teacher_view": true
+  },
+  "questionsView": "analysis",
+  "navView": "leadership",
+  "scope": { "kind": "grades", "gradeIds": [] }
+}

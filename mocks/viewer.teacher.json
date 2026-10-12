@@ -1,0 +1,17 @@
+{
+  "userId": "t-001",
+  "displayName": "Ms. Rao",
+  "organization": "Delhi Public School",
+  "roleLabel": "Teacher",
+  "capabilities": {
+    "view_class_aggregate": true,
+    "view_cohort_analysis": true,
+    "view_student_roster": true,
+    "view_cross_subject_summary": false,
+    "view_subject_directory": false,
+    "switch_to_teacher_view": false
+  },
+  "questionsView": "analysis",
+  "navView": "teacher",
+  "scope": { "kind": "classes", "classIds": ["10A-PHY", "10B-PHY"] }
+}

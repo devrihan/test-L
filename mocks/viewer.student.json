@@ -1,0 +1,17 @@
+{
+  "userId": "s-shristi",
+  "displayName": "Shristi",
+  "organization": "Delhi Public School",
+  "roleLabel": "Student",
+  "capabilities": {
+    "view_class_aggregate": false,
+    "view_cohort_analysis": false,
+    "view_student_roster": false,
+    "view_cross_subject_summary": true,
+    "view_subject_directory": false,
+    "switch_to_teacher_view": false
+  },
+  "questionsView": "browser",
+  "navView": "student",
+  "scope": { "kind": "self", "studentIds": ["s-shristi"] }
+}

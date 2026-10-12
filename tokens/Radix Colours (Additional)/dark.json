@@ -1,0 +1,3138 @@
+{
+  "gray": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111111",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191919",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#222222",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2a2a2a",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#313131",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3a3a3a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#484848",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#606060",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6e6e6e",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7b7b7b",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b4b4b4",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eeeeee",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "mauve": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121113",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1a191b",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#232225",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2b292d",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#323035",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3c393f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#49474e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#625f69",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6f6d78",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7c7a85",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b5b2bc",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eeeef0",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "slate": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111113",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111113",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111113",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#272a2d",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2e3135",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#363a3f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#43484e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5a6169",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#696e77",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#777b84",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#afb3ba",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#edeef0",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "sage": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#101211",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#171918",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#202221",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#272a29",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2e3130",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#373b39",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#444947",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5b625f",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#63706b",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#717d78",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#acb4b0",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eceeed",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "olive": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111210",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#181917",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#212220",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#282a27",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2f312e",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#383a36",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#454843",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5c625b",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#687066",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#767d74",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#afb5ad",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eceeec",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "sand": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111110",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191918",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#222221",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2a2a28",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#31312e",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3b3a37",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#494844",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#62605b",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6f6d66",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7c7a73",
+      "$description": "solid backgrounds, disabled text, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b4b2ac",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#eeeeec",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "tomato": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#181111",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1f1513",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#391714",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4e1511",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5e1c16",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6e2920",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#853a2d",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ac4d39",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e54d2e",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ec6142",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff977d",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fbd3cb",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "red": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191111",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#201314",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3b1219",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#500f1c",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#611623",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#72232d",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8c333a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b54548",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e5484d",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ec5d5e",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff9592",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffd1d9",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "ruby": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191113",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1e1517",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3a141e",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4e1326",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5e192e",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6f2539",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#883447",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b3445a",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e54666",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ec5a72",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff949d",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fed2e1",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "crimson": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191114",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#201318",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#381525",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4d122f",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5c1839",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6d2545",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#873356",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b0436e",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e93d82",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ee518a",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff92ad",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdd3e8",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "pink": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#191117",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#21121d",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#37172f",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4b143d",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#591c47",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#692955",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#833869",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a84885",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d6409f",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#de51a8",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff8dcc",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fdd1ea",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "plum": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#181118",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#201320",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#351a35",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#451d47",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#512454",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5e3061",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#734079",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#92549c",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ab4aba",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b658c4",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e796f3",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f4d4f4",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "purple": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#18111b",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1e1423",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#301c3b",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3d224e",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#47295c",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#54336b",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#664282",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8457aa",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8e4ec6",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9a5cd0",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d19dff",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ecd9fa",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "violet": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#14121f",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1b1525",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#291f44",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#33255b",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3c2e69",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#473876",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#56468b",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6958ad",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6e56cf",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7d66d9",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#baa7ff",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e2ddfe",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "iris": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#13131e",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#171625",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#202248",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#262a65",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#303374",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3d3e82",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4a4a95",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5958b1",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5b5bd6",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6e6ade",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b1a9ff",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e0dffe",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "indigo": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#11131f",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#141726",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#182449",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1d2e62",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#253974",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#304384",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3a4f97",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#435db1",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e63dd",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5472e4",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#9eb1ff",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d6e1ff",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "blue": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d1520",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111927",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d2847",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#003362",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#004074",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#104d87",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#205d9e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2870bd",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0090ff",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3b9eff",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#70b8ff",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2e6ff",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "cyan": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0b161a",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111b1f",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#082c36",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#003848",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#004557",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#065468",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#13677e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#11809c",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00a2c7",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#23afd0",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4ccce6",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b6ecf7",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "teal": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d1514",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121c1b",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d2d2a",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#043b35",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0b4841",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#16574f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1d6960",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#207e73",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#12a594",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0eb39e",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0bd8b6",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#adf0dd",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "jade": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d1512",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121c18",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0f2e22",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0b3b2c",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#114837",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1b5745",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#246854",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2a7e68",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#29a383",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#27b08b",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1fd8a4",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#adf0d4",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "grass": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0e1511",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#151a16",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1b2a1e",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1e3a25",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#25482e",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2d5737",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#366740",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e7949",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#46a758",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#53b365",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#71d083",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2f0c2",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "orange": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#17120e",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1c1712",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#331e0b",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#462000",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#562800",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#66350e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7e451e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a35829",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f76b15",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ff801f",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffa057",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffe0c2",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "brown": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#12110f",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1c1816",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#28211d",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#322922",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e3128",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4d3c2f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#614a39",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7c5f46",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ad7f58",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b88c67",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#dbb594",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#f2e1ca",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "bronze": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#141110",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1c1917",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#262220",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#302a27",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3b3330",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#493e3a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5a4c47",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#6f5f58",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a18072",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ae8c7e",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d4b3a5",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ede0d9",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "gold": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121211",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1b1a17",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#24231f",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2d2b26",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#38352e",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#444039",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#544f46",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#696256",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#978365",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a39073",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#cbb99f",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e8e2d9",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "sky": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0d141f",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121a26",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#12283e",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#123553",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#154366",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1b537a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1f6691",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#197cae",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#7ce2fe",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a8eeff",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#75c7f0",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c2f3ff",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "mint": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0e1515",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#131c1c",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#092c2b",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#003b38",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#044843",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#14574f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#20695f",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#277f70",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#86ead4",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#a8f5e5",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#58d5ba",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#c4f5e1",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "lime": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#111304",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#161913",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#202919",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2a371f",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#334424",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e522b",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#496231",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#577538",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bdee63",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#d4ff70",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#bde56c",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#e3f7ba",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "amber": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#16120c",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#1c1812",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#302008",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3e2700",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#4c3000",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#5b3d06",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#704f1a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#8f6424",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffc53d",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffd60a",
+      "$description": "solid backgrounds, buttons, pairs with dark text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffca16",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffe7b3",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  },
+  "black": {
+    "A1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000000d",
+      "$description": "Shadows and overlays"
+    },
+    "A2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000001a",
+      "$description": "Shadows and overlays"
+    },
+    "A3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000026",
+      "$description": "Shadows and overlays"
+    },
+    "A4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000033",
+      "$description": "Shadows and overlays"
+    },
+    "A5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0000004d",
+      "$description": "Shadows and overlays"
+    },
+    "A6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000066",
+      "$description": "Shadows and overlays"
+    },
+    "A7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000080",
+      "$description": "Shadows and overlays"
+    },
+    "A8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#00000099",
+      "$description": "Shadows and overlays"
+    },
+    "A9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000b3",
+      "$description": "Shadows and overlays"
+    },
+    "A10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000cc",
+      "$description": "Shadows and overlays"
+    },
+    "A11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000e6",
+      "$description": "Shadows and overlays"
+    },
+    "A12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#000000f2",
+      "$description": "Shadows and overlays"
+    }
+  },
+  "white": {
+    "A1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff0d",
+      "$description": "Highlights and overlays"
+    },
+    "A2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff1a",
+      "$description": "Highlights and overlays"
+    },
+    "A3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff26",
+      "$description": "Highlights and overlays"
+    },
+    "A4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff33",
+      "$description": "Highlights and overlays"
+    },
+    "A5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff4d",
+      "$description": "Highlights and overlays"
+    },
+    "A6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff66",
+      "$description": "Highlights and overlays"
+    },
+    "A7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff80",
+      "$description": "Highlights and overlays"
+    },
+    "A8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffff99",
+      "$description": "Highlights and overlays"
+    },
+    "A9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffb3",
+      "$description": "Highlights and overlays"
+    },
+    "A10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffcc",
+      "$description": "Highlights and overlays"
+    },
+    "A11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#ffffffe6",
+      "$description": "Highlights and overlays"
+    },
+    "A12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#fffffff2",
+      "$description": "Highlights and overlays"
+    }
+  },
+  "green": {
+    "1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#0e1512",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#121b17",
+      "$description": "background, pairs with steps 11, 12 text"
+    },
+    "3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#132d21",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#113b29",
+      "$description": "interactive components, pairs with steps 11 labels, step 12 text"
+    },
+    "5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#174933",
+      "$description": "interactive components, pairs with step 12 labels"
+    },
+    "6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#20573e",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#28684a",
+      "$description": "borders and separators, pairs with steps 1-5 backgrounds"
+    },
+    "8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#2f7c57",
+      "$description": "borders, focus rings, disabled text, pairs with steps 1-5 backgrounds"
+    },
+    "9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#30a46c",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#33b074",
+      "$description": "solid backgrounds, buttons, pairs with white text"
+    },
+    "11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#3dd68c",
+      "$description": "secondary text, links, pairs with background colours"
+    },
+    "12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "color",
+      "$value": "#b1f1cb",
+      "$description": "high-contrast text, pairs with background colours"
+    }
+  }
+}

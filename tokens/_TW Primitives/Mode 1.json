@@ -1,0 +1,5221 @@
+{
+  "rounded": {
+    "rounded-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0
+    },
+    "rounded-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0.125rem"
+        }
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "rounded": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "rounded-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0.375rem"
+        }
+      },
+      "$type": "number",
+      "$value": 6
+    },
+    "rounded-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "rounded-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 0.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "rounded-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 1rem"
+        }
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "rounded-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 1.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "rounded-full": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-radius: 9999px"
+        }
+      },
+      "$type": "number",
+      "$value": 9999
+    },
+    "rounded-tl-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-none}"
+    },
+    "rounded-tl-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.125rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-sm}"
+    },
+    "rounded-tl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.25rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded}"
+    },
+    "rounded-tl-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.375rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-md}"
+    },
+    "rounded-tl-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-lg}"
+    },
+    "rounded-tl-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.75rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-xl}"
+    },
+    "rounded-tl-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 1rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-2xl}"
+    },
+    "rounded-tl-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 1.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-3xl}"
+    },
+    "rounded-tl-full": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 9999px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-full}"
+    },
+    "rounded-tl-sm 2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-left-radius: 0.125rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-sm}"
+    },
+    "rounded-tr": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 0.25rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded}"
+    },
+    "rounded-tr-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 0.375rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-md}"
+    },
+    "rounded-tr-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 0.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-lg}"
+    },
+    "rounded-tr-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 0.75rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-xl}"
+    },
+    "rounded-tr-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 1rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-2xl}"
+    },
+    "rounded-tr-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 1.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-3xl}"
+    },
+    "rounded-tr-full": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 9999px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-full}"
+    },
+    "rounded-tr-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-right-radius: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-none}"
+    },
+    "rounded-bl-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-none}"
+    },
+    "rounded-bl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 0.25rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded}"
+    },
+    "rounded-bl-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 0.375rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-md}"
+    },
+    "rounded-bl-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 0.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-lg}"
+    },
+    "rounded-bl-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 0.75rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-xl}"
+    },
+    "rounded-bl-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 1rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-2xl}"
+    },
+    "rounded-bl-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 1.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-3xl}"
+    },
+    "rounded-bl-full": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-left-radius: 9999px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-full}"
+    },
+    "rounded-br-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-none}"
+    },
+    "rounded-br": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 0.25rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded}"
+    },
+    "rounded-br-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 0.375rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-md}"
+    },
+    "rounded-br-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 0.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-lg}"
+    },
+    "rounded-br-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 0.75rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-xl}"
+    },
+    "rounded-br-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 1rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-2xl}"
+    },
+    "rounded-br-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 1.5rem;"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-3xl}"
+    },
+    "rounded-br-full": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom-right-radius: 9999px"
+        }
+      },
+      "$type": "number",
+      "$value": "{rounded.rounded-full}"
+    },
+    "--------------------": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "just a separator"
+    }
+  },
+  "gap": {
+    "gap-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.125rem"
+        }
+      },
+      "$type": "number",
+      "$value": 2,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 1rem"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 1.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 1.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 1.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 2rem"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 2.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 2.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 2.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 3rem"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.375rem"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 3.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 4rem"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 6rem"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 7rem"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 8rem"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 16rem"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.625rem"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 0.875rem"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-x-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "column-gap: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-y-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "row-gap: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 18rem"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 20rem"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 24rem"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 9rem"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 10rem"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 11rem"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 12rem"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 13rem"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 14rem"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Controlling gutters between grid and flexbox items"
+    },
+    "gap-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "gap: 15rem"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Controlling gutters between grid and flexbox items"
+    }
+  },
+  "padding": {
+    "px-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-0"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling an element's padding."
+    },
+    "px-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-1"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "horizontal element padding"
+    },
+    "px-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-2"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "horizontal element padding"
+    },
+    "px-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-3"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "horizontal element padding"
+    },
+    "px-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-4"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "horizontal element padding"
+    },
+    "px-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-6"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "horizontal element padding"
+    },
+    "py-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-0"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "vertical element padding"
+    },
+    "py-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-1"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "vertical element padding"
+    },
+    "py-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-2"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "vertical element padding"
+    },
+    "py-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-3"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "vertical element padding"
+    },
+    "py-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-4"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "vertical element padding"
+    },
+    "py-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-6"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "vertical element padding"
+    },
+    "px-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-2.5"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "horizontal element padding"
+    },
+    "py-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-2.5"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "vertical element padding"
+    },
+    "px-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-5"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "horizontal element padding"
+    },
+    "py-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-5"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "vertical element padding"
+    },
+    "px-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-8"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "horizontal element padding"
+    },
+    "py-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-8"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "vertical element padding"
+    },
+    "px-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-1.5"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "horizontal element padding"
+    },
+    "py-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-1.5"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "vertical element padding"
+    },
+    "px-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-12"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "horizontal element padding"
+    },
+    "px-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-16"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "horizontal element padding"
+    },
+    "py-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-12"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "vertical element padding"
+    },
+    "py-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-16"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "vertical element padding"
+    },
+    "px-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-10"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "horizontal element padding"
+    },
+    "py-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-10"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "vertical element padding"
+    },
+    "px-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-9"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "horizontal element padding"
+    },
+    "py-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-9"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "vertical element padding"
+    },
+    "px-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-0.5"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "horizontal element padding"
+    },
+    "py-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-0.5"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "vertical element padding"
+    },
+    "px-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-14"
+        }
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "horizontal element padding"
+    },
+    "px-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-18"
+        }
+      },
+      "$type": "number",
+      "$value": 72,
+      "$description": "horizontal element padding"
+    },
+    "px-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-20"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "horizontal element padding"
+    },
+    "py-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-18"
+        }
+      },
+      "$type": "number",
+      "$value": 72,
+      "$description": "vertical element padding"
+    },
+    "py-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-20"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "vertical element padding"
+    },
+    "py-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-24"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "vertical element padding"
+    },
+    "px-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-24"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "horizontal element padding"
+    },
+    "px-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-3.5"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "horizontal element padding"
+    },
+    "py-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-3.5"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "vertical element padding"
+    },
+    "px-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-7"
+        }
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "horizontal element padding"
+    },
+    "px-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-11"
+        }
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "horizontal element padding"
+    },
+    "px-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-28"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "horizontal element padding"
+    },
+    "px-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-32"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "horizontal element padding"
+    },
+    "px-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-36"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "horizontal element padding"
+    },
+    "px-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-40"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "horizontal element padding"
+    },
+    "px-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-44"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "horizontal element padding"
+    },
+    "px-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-48"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "horizontal element padding"
+    },
+    "px-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-52"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "horizontal element padding"
+    },
+    "px-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for controlling an element's padding."
+    },
+    "py-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "vertical element padding"
+    },
+    "px-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-56"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "horizontal element padding"
+    },
+    "px-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-60"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "horizontal element padding"
+    },
+    "px-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-64"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "horizontal element padding"
+    },
+    "px-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-72"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "horizontal element padding"
+    },
+    "px-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-80"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "horizontal element padding"
+    },
+    "px-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "px-96"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "horizontal element padding"
+    },
+    "py-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-28"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "horizontal element padding"
+    },
+    "py-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-32"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "horizontal element padding"
+    },
+    "py-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-36"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "horizontal element padding"
+    },
+    "py-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-40"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "horizontal element padding"
+    },
+    "py-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-44"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "horizontal element padding"
+    },
+    "py-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-48"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "horizontal element padding"
+    },
+    "py-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-52"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "horizontal element padding"
+    },
+    "py-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-56"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "horizontal element padding"
+    },
+    "py-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-60"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "horizontal element padding"
+    },
+    "py-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-64"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "horizontal element padding"
+    },
+    "py-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-72"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "horizontal element padding"
+    },
+    "py-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-80"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "horizontal element padding"
+    },
+    "py-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-96"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "horizontal element padding"
+    }
+  },
+  "backdrop-blur": {
+    "backdrop-blur-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(4px)"
+        }
+      },
+      "$type": "number",
+      "$value": 4,
+      "$description": "Applying backdrop blur filters to an element"
+    },
+    "backdrop-blur": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(8px)"
+        }
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "backdrop-blur-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(12px)"
+        }
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "backdrop-blur-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(16px)"
+        }
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "backdrop-blur-none": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(0)"
+        }
+      },
+      "$type": "number",
+      "$value": 0
+    },
+    "backdrop-blur-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(24px)"
+        }
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "backdrop-blur-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(40px)"
+        }
+      },
+      "$type": "number",
+      "$value": 40
+    },
+    "backdrop-blur-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "backdrop-filter: blur(64px)"
+        }
+      },
+      "$type": "number",
+      "$value": 64
+    }
+  },
+  "opacity": {
+    "opacity-0": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-5": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.05"
+        }
+      },
+      "$type": "number",
+      "$value": 5,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-10": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.1"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-20": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.2"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-25": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.25"
+        }
+      },
+      "$type": "number",
+      "$value": 25,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-30": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.3"
+        }
+      },
+      "$type": "number",
+      "$value": 30,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-40": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.4"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-50": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.5"
+        }
+      },
+      "$type": "number",
+      "$value": 50,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-60": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.6"
+        }
+      },
+      "$type": "number",
+      "$value": 60,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-70": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity-70"
+        }
+      },
+      "$type": "number",
+      "$value": 70,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-80": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity-80"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-90": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.9"
+        }
+      },
+      "$type": "number",
+      "$value": 90,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-95": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.95"
+        }
+      },
+      "$type": "number",
+      "$value": 95,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-100": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 1"
+        }
+      },
+      "$type": "number",
+      "$value": 100,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-15": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.15"
+        }
+      },
+      "$type": "number",
+      "$value": 15,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-35": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.35"
+        }
+      },
+      "$type": "number",
+      "$value": 35,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-45": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.45"
+        }
+      },
+      "$type": "number",
+      "$value": 45,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-55": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.55"
+        }
+      },
+      "$type": "number",
+      "$value": 55,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-65": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.65"
+        }
+      },
+      "$type": "number",
+      "$value": 65,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-75": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.75"
+        }
+      },
+      "$type": "number",
+      "$value": 75,
+      "$description": "Controlling element opacity"
+    },
+    "opacity-85": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "OPACITY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "opacity: 0.85"
+        }
+      },
+      "$type": "number",
+      "$value": 85,
+      "$description": "Controlling element opacity"
+    }
+  },
+  "space-base-unit": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 4,
+    "$description": "0.25rem"
+  },
+  "space-x": {
+    "space-x-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.125rem"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.375rem"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.625rem"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 0.875rem"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 1rem"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 1.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 1.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 1.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 2rem"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 2.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 2.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 2.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 3rem"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 3.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 4rem"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 6rem"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 7rem"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 8rem"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 9rem"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 10rem"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 11rem"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 12rem"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 13rem"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 14rem"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 15rem"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 16rem"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 18rem"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 20rem"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-x-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-left: 24rem"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for controlling the space between child elements."
+    }
+  },
+  "max-w": {
+    "max-w-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "max-w-sm"
+        }
+      },
+      "$type": "number",
+      "$value": "{max-w.max-w-96}"
+    },
+    "max-w-xs": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": "{max-w.max-w-80}",
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 448
+    },
+    "max-w-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 512
+    },
+    "max-w-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 576
+    },
+    "max-w-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 672
+    },
+    "max-w-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 768
+    },
+    "max-w-4xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 896
+    },
+    "max-w-5xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1024
+    },
+    "max-w-6xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1152
+    },
+    "max-w-7xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1280,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-screen-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 640,
+      "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file."
+    },
+    "max-w-screen-md": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 768,
+      "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file."
+    },
+    "max-w-screen-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1024,
+      "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file."
+    },
+    "max-w-screen-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1280,
+      "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file."
+    },
+    "max-w-screen-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1536,
+      "$description": "The max-w-screen-{breakpoint} classes can be used to give an element a max-width matching a specific breakpoint. These values are automatically derived from the theme.screens section of your tailwind.config.js file."
+    },
+    "max-w-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 2,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 4,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for setting the maximum width of an element."
+    },
+    "max-w-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for setting the maximum width of an element."
+    }
+  },
+  "width": {
+    "w-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "w-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "w-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "w-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "w-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20
+    },
+    "w-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "w-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 28
+    },
+    "w-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 32
+    },
+    "w-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36
+    },
+    "w-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 40
+    },
+    "w-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 48
+    },
+    "w-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 56
+    },
+    "w-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 64
+    },
+    "w-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 72
+    },
+    "w-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 80
+    },
+    "w-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 96
+    },
+    "w-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 192
+    },
+    "w-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 288
+    },
+    "w-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 384
+    },
+    "w-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0
+    },
+    "w-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1
+    },
+    "w-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "w-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 10
+    },
+    "w-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 14
+    }
+  },
+  "height": {
+    "h-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 4
+    },
+    "h-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 8
+    },
+    "h-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12
+    },
+    "h-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16
+    },
+    "h-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20
+    },
+    "h-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24
+    },
+    "h-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 28
+    },
+    "h-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 32
+    },
+    "h-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36
+    },
+    "h-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 40
+    },
+    "h-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 48
+    },
+    "h-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 56
+    },
+    "h-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 64
+    },
+    "h-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 72
+    },
+    "h-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 80
+    },
+    "h-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 96
+    },
+    "h-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 192
+    },
+    "h-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 288
+    },
+    "h-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 384
+    },
+    "h-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0
+    },
+    "h-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1
+    },
+    "h-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 2
+    },
+    "h-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 10
+    },
+    "h-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 14
+    }
+  },
+  "text": {
+    "text-xs": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-sm": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-base": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-lg": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 18,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-2xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-3xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 30,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-4xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-5xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-6xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 60,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-7xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 72,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-8xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for controlling font size"
+    },
+    "text-9xl": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for controlling font size"
+    }
+  },
+  "leading": {
+    "leading-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    },
+    "leading-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for controlling the leading (line height) of an element."
+    }
+  },
+  "tracking": {
+    "tracking-tighter": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": -5,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    },
+    "tracking-tight": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": -2.5,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    },
+    "tracking-normal": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    },
+    "tracking-wide": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 2.5,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    },
+    "tracking-wider": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 5,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    },
+    "tracking-widest": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for controlling the tracking (letter spacing) of an element."
+    }
+  },
+  "font": {
+    "font-thin": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 100,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-extralight": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 200,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-light": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 300,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-normal": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 400,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-medium": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 500,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-semibold": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 600,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-bold": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 700,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-extrabold": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 800,
+      "$description": "Utilities for controlling the font weight of an element."
+    },
+    "font-black": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 900,
+      "$description": "Utilities for controlling the font weight of an element."
+    }
+  },
+  "max-h": {
+    "max-h-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 2,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 4,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for setting the maximum height of an element."
+    },
+    "max-h-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for setting the maximum height of an element."
+    }
+  },
+  "space-y": {
+    "space-y-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.125rem"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.375rem"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.625rem"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 0.875rem"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 1rem"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 1.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 1.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 1.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 2rem"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 2.25rem"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 2.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 2.75rem"
+        }
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 3rem"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 3.5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 4rem"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 5rem"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 6rem"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 7rem"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 8rem"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 9rem"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 10rem"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 11rem"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 12rem"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 13rem"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 14rem"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 15rem"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 16rem"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 18rem"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 20rem"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for controlling the space between child elements."
+    },
+    "space-y-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "margin-top: 24rem"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for controlling the space between child elements."
+    }
+  },
+  "border": {
+    "border-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-width: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-width: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-width: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": 2,
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-width: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": 4,
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-width: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-x-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left-width: 0px; border-right-width: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-x": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left-width: 1px; border-right-width: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-x-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left-width: 2px; border-right-width: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-x-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left-width: 4px; border-right-width: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-x-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left-width: 8px; border-right-width: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-y-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 0px; border-bottom-width: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-y": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 1px; border-bottom-width: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-y-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 2px; border-bottom-width: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-y-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 4px; border-bottom-width: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-y-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 8px; border-bottom-width: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-t-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-t": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-t-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-t-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-t-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-top-width: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-b-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-b": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-b-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-b-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-b-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-bottom: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-l-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-l": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-l-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-l-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-l-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-left: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-r-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-right: 0px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-0}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-r": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-right: 1px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-r-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-right: 2px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-2}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-r-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-right: 4px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-4}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    },
+    "border-r-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "border-right: 8px"
+        }
+      },
+      "$type": "number",
+      "$value": "{border.border-8}",
+      "$description": "Utilities for controlling the width of an element's borders."
+    }
+  },
+  "space-half-unit": {
+    "$extensions": {
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 2,
+    "$description": "0.125rem"
+  },
+  "margin": {
+    "mx-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-0"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-0.5"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-1"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-1.5"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-2"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-2.5"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-3"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-3.5"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-4"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-5"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-6"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-7": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-7"
+        }
+      },
+      "$type": "number",
+      "$value": 28,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-8"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-9"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-10"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-11": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-11"
+        }
+      },
+      "$type": "number",
+      "$value": 44,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-12"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-14": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-14"
+        }
+      },
+      "$type": "number",
+      "$value": 56,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-16"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-18"
+        }
+      },
+      "$type": "number",
+      "$value": 72,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-20"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-24"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-28"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-32"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-36"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-40"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-44"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-48"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-52"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-56"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-60"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-64"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-72"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-80"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "mx-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "mx-96"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-0": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-0"
+        }
+      },
+      "$type": "number",
+      "$value": 0,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-px": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-px"
+        }
+      },
+      "$type": "number",
+      "$value": 1,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-0,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-0.5"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-half-unit}",
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-1": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-1"
+        }
+      },
+      "$type": "number",
+      "$value": "{space-base-unit}",
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-1,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-1.5"
+        }
+      },
+      "$type": "number",
+      "$value": 6,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-2": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-2"
+        }
+      },
+      "$type": "number",
+      "$value": 8,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-2,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-2.5"
+        }
+      },
+      "$type": "number",
+      "$value": 10,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-3": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-3"
+        }
+      },
+      "$type": "number",
+      "$value": 12,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-3,5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-3.5"
+        }
+      },
+      "$type": "number",
+      "$value": 14,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-4": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-4"
+        }
+      },
+      "$type": "number",
+      "$value": 16,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-5": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-5"
+        }
+      },
+      "$type": "number",
+      "$value": 20,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-6": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-6"
+        }
+      },
+      "$type": "number",
+      "$value": 24,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-8": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-8"
+        }
+      },
+      "$type": "number",
+      "$value": 32,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-9": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-9"
+        }
+      },
+      "$type": "number",
+      "$value": 36,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-10": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-10"
+        }
+      },
+      "$type": "number",
+      "$value": 40,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-12": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-12"
+        }
+      },
+      "$type": "number",
+      "$value": 48,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-16": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-16"
+        }
+      },
+      "$type": "number",
+      "$value": 64,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-18": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-18"
+        }
+      },
+      "$type": "number",
+      "$value": 72,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-20": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-20"
+        }
+      },
+      "$type": "number",
+      "$value": 80,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-24": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-24"
+        }
+      },
+      "$type": "number",
+      "$value": 96,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-28": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-28"
+        }
+      },
+      "$type": "number",
+      "$value": 112,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-32": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-32"
+        }
+      },
+      "$type": "number",
+      "$value": 128,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-36": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-36"
+        }
+      },
+      "$type": "number",
+      "$value": 144,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-40": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-40"
+        }
+      },
+      "$type": "number",
+      "$value": 160,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-44": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-44"
+        }
+      },
+      "$type": "number",
+      "$value": 176,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-48": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-48"
+        }
+      },
+      "$type": "number",
+      "$value": 192,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-52": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-52"
+        }
+      },
+      "$type": "number",
+      "$value": 208,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-56": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-56"
+        }
+      },
+      "$type": "number",
+      "$value": 224,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-60": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-60"
+        }
+      },
+      "$type": "number",
+      "$value": 240,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-64": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-64"
+        }
+      },
+      "$type": "number",
+      "$value": 256,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-72": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-72"
+        }
+      },
+      "$type": "number",
+      "$value": 288,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-80": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-80"
+        }
+      },
+      "$type": "number",
+      "$value": 320,
+      "$description": "Utilities for controlling an element's margin."
+    },
+    "my-96": {
+      "$extensions": {
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "py-96"
+        }
+      },
+      "$type": "number",
+      "$value": 384,
+      "$description": "Utilities for controlling an element's margin."
+    }
+  }
+}

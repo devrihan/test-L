@@ -1,0 +1,82 @@
+[
+  {
+    "config_name": "feature_flags",
+    "scope_type": "school",
+    "config": {
+      "1": {
+        "show_remediation_table_exam_page": false,
+        "show_remediation_table_student_page": false,
+        "show_common_mistakes_exam_page": false,
+        "show_common_mistakes_chapter_page": false,
+        "show_common_mistakes_question_page": false,
+        "show_common_mistakes_student_page": false,
+        "show_common_mistake_column_student_table": false,
+        "show_common_mistake_column_students_page": false,
+        "show_smart_cohorts_chapter_page": false,
+        "show_answer_script_feedback_student_page": false,
+        "show_performance_tab_student_detail_page": false,
+        "route_to_detail_question_table": true,
+        "route_to_detail_chapter_table": true,
+        "route_to_detail_student_table": true,
+        "show_remediation_student_exam_page": false,
+        "show_common_mistakes_student_exam_page": false,
+        "show_common_mistakes_student_chapter_page": false,
+        "show_question_performance_student_analysis_page": false,
+        "show_questions_nav_student": false,
+        "show_tutorial": true,
+        "show_common_mistakes_student_dashboard": false,
+        "show_add_to_plan": false,
+        "show_scoring_left_table_student_exam_page": false,
+        "classified_cohorts": [
+          "12|Mathematics"
+        ]
+      },
+      "all": {
+        "show_remediation_table_exam_page": false,
+        "show_remediation_table_student_page": false,
+        "show_common_mistakes_exam_page": false,
+        "show_common_mistakes_chapter_page": false,
+        "show_common_mistakes_question_page": false,
+        "show_common_mistakes_student_page": false,
+        "show_common_mistake_column_student_table": false,
+        "show_common_mistake_column_students_page": false,
+        "show_smart_cohorts_chapter_page": false,
+        "show_answer_script_feedback_student_page": false,
+        "show_performance_tab_student_detail_page": false,
+        "route_to_detail_question_table": true,
+        "route_to_detail_chapter_table": true,
+        "route_to_detail_student_table": true,
+        "show_remediation_student_exam_page": false,
+        "show_common_mistakes_student_exam_page": false,
+        "show_common_mistakes_student_chapter_page": false,
+        "show_question_performance_student_analysis_page": false,
+        "show_questions_nav_student": false,
+        "show_tutorial": true,
+        "show_common_mistakes_student_dashboard": false,
+        "show_add_to_plan": false,
+        "show_scoring_left_table_student_exam_page": false,
+        "classified_cohorts": [
+          "12|Mathematics"
+        ]
+      }
+    }
+  },
+  {
+    "config_name": "academic_year_scope",
+    "scope_type": "school",
+    "config": {
+      "1": {
+        "excluded_years": [
+          "2025-26"
+        ],
+        "exclude_yearless": true
+      },
+      "all": {
+        "excluded_years": [
+          "2025-26"
+        ],
+        "exclude_yearless": true
+      }
+    }
+  }
+]

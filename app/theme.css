@@ -1,0 +1,514 @@
+@custom-variant dark (&:is(.dark *));
+
+/*
+  Tokens below (between AUTOGEN markers) are generated from tokens/ by scripts/build-tokens.ts.
+  Do not edit by hand — update tokens/ (from Tokens Studio Figma export) and run:
+      npm run tokens:build
+  See web/packages/ui/TOKEN_MAPPING.md for the Figma → shadcn name mapping.
+*/
+
+/* AUTOGEN:TOKENS:START */
+:root {
+  --radius: 0.5rem;
+
+  /* colors (light) */
+  --background: #ffffff;
+  --foreground: #020617;
+  --muted: #f1f5f9;
+  --muted-foreground: #64748b;
+  --card: #ffffff;
+  --card-foreground: #020617;
+  --popover: #ffffff;
+  --popover-foreground: #020617;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --primary: #0f172a;
+  --primary-foreground: #f8fafc;
+  --secondary: #f1f5f9;
+  --secondary-foreground: #0f172a;
+  --accent: #f1f5f9;
+  --accent-foreground: #0f172a;
+  --destructive: #ef4444;
+  --destructive-foreground: #f8fafc;
+  --ring: #64748b;
+  --chart-1: #e76e4f;
+  --chart-2: #299d8f;
+  --chart-3: #264753;
+  --chart-4: #e8c468;
+  --chart-5: #f4a361;
+  --sidebar: #fafafa;
+  --sidebar-foreground: #3f3f46;
+  --sidebar-primary: #18181b;
+  --sidebar-primary-foreground: #fafafa;
+  --sidebar-accent: #f4f4f5;
+  --sidebar-accent-foreground: #18181b;
+  --sidebar-border: #e5e7eb;
+  --sidebar-ring: #3b82f6;
+
+  /* containers */
+  --container-padding-mobile: 1rem;
+  --container-padding-desktop: 2rem;
+  --container-max-width-desktop: 80rem;
+  --container-max-width-table: 48rem;
+  --container-max-width-phone: 24rem;
+
+  /* 6. Inferentics Color Primitives */
+  --inferentics-primitive-brand-green-700: #0a5d2d;
+  --inferentics-primitive-brand-green-600: #0f7a3c;
+  --inferentics-primitive-brand-green-500: #007944;
+  --inferentics-primitive-brand-teal-500: #6baaae;
+  --inferentics-primitive-brand-navy-700: #133951;
+  --inferentics-primitive-ink-400: #a3b3c6;
+  --inferentics-primitive-ink-450: #90a5bb;
+  --inferentics-primitive-ink-500: #888b96;
+  --inferentics-primitive-ink-550: #768ea7;
+  --inferentics-primitive-ink-600: #6c849d;
+  --inferentics-primitive-ink-650: #58728d;
+  --inferentics-primitive-ink-700: #5c616d;
+  --inferentics-primitive-ink-800: #40566d;
+  --inferentics-primitive-ink-850: #313131;
+  --inferentics-primitive-ink-900: #23262f;
+  --inferentics-primitive-ink-950: #202020;
+  --inferentics-primitive-ink-base: #171717;
+  --inferentics-primitive-ink-gray-900: #101828;
+  --inferentics-primitive-ink-gray-700: #364153;
+  --inferentics-primitive-ink-gray-600: #4a5565;
+  --inferentics-primitive-ink-gray-500: #6a7282;
+  --inferentics-primitive-ink-slate-700: #314158;
+  --inferentics-primitive-ink-slate-600: #45556c;
+  --inferentics-primitive-ink-slate-500: #62748e;
+  --inferentics-primitive-ink-slate-400: #90a1b9;
+  --inferentics-primitive-ink-disabled: #99a1af;
+  --inferentics-primitive-ink-summary: #192e03;
+  --inferentics-primitive-surface-canvas: #f1f5fa;
+  --inferentics-primitive-surface-subtle: #f8fafc;
+  --inferentics-primitive-surface-success: #f6ffed;
+  --inferentics-primitive-surface-warning: #fff7e6;
+  --inferentics-primitive-surface-premium: #f9f0ff;
+  --inferentics-primitive-surface-error: #fff1f0;
+  --inferentics-primitive-border-input: #d1d5dc;
+  --inferentics-primitive-border-soft-blue: #e3eaf3;
+  --inferentics-primitive-border-default: #e6e8ec;
+  --inferentics-primitive-border-subtle: #e4e4e4;
+  --inferentics-primitive-border-card: #e5e5e5;
+  --inferentics-primitive-border-medium: #d6d6d6;
+  --inferentics-primitive-border-strong: #cecece;
+  --inferentics-primitive-border-neutral-500: #bcc2c8;
+  --inferentics-primitive-border-neutral-450: #c6c7cd;
+  --inferentics-primitive-border-neutral-400: #d2d2d2;
+  --inferentics-primitive-blue-50: #eff6ff;
+  --inferentics-primitive-blue-100: #dbeafe;
+  --inferentics-primitive-blue-200: #b8e6fe;
+  --inferentics-primitive-blue-400: #597ef7;
+  --inferentics-primitive-blue-500: #3772ff;
+  --inferentics-primitive-blue-550: #3362ff;
+  --inferentics-primitive-blue-600: #2f54eb;
+  --inferentics-primitive-blue-650: #155dfc;
+  --inferentics-primitive-blue-700: #007aff;
+  --inferentics-primitive-blue-750: #0066cc;
+  --inferentics-primitive-blue-800: #1d39c4;
+  --inferentics-primitive-blue-900: #0069a4;
+  --inferentics-primitive-blue-focus: #3080ff;
+  --inferentics-primitive-blue-tint: #d6e4ff;
+  --inferentics-primitive-blue-interactive-alpha: #3772ff1a;
+  --inferentics-primitive-green-50: #f0fdf4;
+  --inferentics-primitive-green-200: #b9f8cf;
+  --inferentics-primitive-green-300: #7bf1a8;
+  --inferentics-primitive-green-350: #05df72;
+  --inferentics-primitive-green-400: #73d98d;
+  --inferentics-primitive-green-450: #34c759;
+  --inferentics-primitive-green-500: #52c41a;
+  --inferentics-primitive-green-550: #389e0d;
+  --inferentics-primitive-green-600: #2a914d;
+  --inferentics-primitive-green-650: #00a544;
+  --inferentics-primitive-green-body: #008138;
+  --inferentics-primitive-green-tint: #d9f7be;
+  --inferentics-primitive-green-highlight: #b7eb8f;
+  --inferentics-primitive-green-illustration-start: #d7f0de;
+  --inferentics-primitive-orange-50: #fff7e6;
+  --inferentics-primitive-orange-100: #ffe7ba;
+  --inferentics-primitive-orange-200: #ffd591;
+  --inferentics-primitive-orange-300: #ffb96d;
+  --inferentics-primitive-orange-350: #ffa940;
+  --inferentics-primitive-orange-400: #ff9500;
+  --inferentics-primitive-orange-450: #fa8c16;
+  --inferentics-primitive-orange-500: #ff8b1a;
+  --inferentics-primitive-orange-600: #f05100;
+  --inferentics-primitive-orange-700: #d46b08;
+  --inferentics-primitive-orange-800: #ad4e00;
+  --inferentics-primitive-orange-outline: #ffd7a8;
+  --inferentics-primitive-orange-body: #c53c00;
+  --inferentics-primitive-orange-yellow: #ffc53d;
+  --inferentics-primitive-orange-partial: #ad8b00;
+  --inferentics-primitive-orange-amber-gradient: #e2a300;
+  --inferentics-primitive-red-50: #fff1f0;
+  --inferentics-primitive-red-300: #ffa3a3;
+  --inferentics-primitive-red-400: #ff6568;
+  --inferentics-primitive-red-450: #db6861;
+  --inferentics-primitive-red-500: #ff4d4f;
+  --inferentics-primitive-red-600: #e40014;
+  --inferentics-primitive-red-700: #cf1322;
+  --inferentics-primitive-purple-50: #f9f0ff;
+  --inferentics-primitive-purple-200: #d3adf7;
+  --inferentics-primitive-purple-600: #9254de;
+  --inferentics-primitive-purple-800: #531dab;
+  --inferentics-primitive-amber-200: #fee685;
+  --inferentics-primitive-amber-600: #dd7400;
+  --inferentics-primitive-overlay-black-8: #00000014;
+  --inferentics-primitive-overlay-black-10: #0000001a;
+  --inferentics-primitive-overlay-black-12: #0000001f;
+  --inferentics-primitive-overlay-black-15: #00000026;
+  --inferentics-primitive-overlay-black-19: #00000030;
+  --inferentics-primitive-overlay-black-25: #00000040;
+  --inferentics-primitive-overlay-black-36: #0000005c;
+  --inferentics-primitive-overlay-black-40: #00000066;
+  --inferentics-primitive-overlay-black-50: #00000080;
+  --inferentics-primitive-overlay-black-54: #0000008a;
+  --inferentics-primitive-overlay-white-6: #ffffff0f;
+  --inferentics-primitive-overlay-white-8: #ffffff14;
+  --inferentics-primitive-overlay-white-20: #ffffff33;
+  --inferentics-primitive-overlay-white-50: #ffffff80;
+  --inferentics-primitive-overlay-white-55: #ffffff8c;
+  --inferentics-primitive-overlay-white-70: #ffffffb3;
+  --inferentics-primitive-overlay-white-80: #ffffffcc;
+  --inferentics-primitive-overlay-white-85: #ffffffd9;
+  --inferentics-primitive-overlay-blue-10: #3772ff1a;
+  --inferentics-primitive-overlay-teal-10: #6baaae1a;
+  --inferentics-primitive-overlay-teal-20: #6baaae33;
+  --inferentics-primitive-overlay-purple-16: #3d127429;
+  --inferentics-primitive-overlay-violet-18: #9747ff2e;
+  --inferentics-primitive-overlay-navy-16: #2d385329;
+  --inferentics-primitive-analytics-brand-green-700: #053d26;
+  --inferentics-primitive-analytics-brand-green-600: #075133;
+  --inferentics-primitive-analytics-warm-neutral-100: #f4f4f2;
+  --inferentics-primitive-analytics-warm-neutral-200: #e7e5e0;
+  --inferentics-primitive-analytics-warm-neutral-300: #d4d2cc;
+  --inferentics-primitive-analytics-warm-neutral-350: #a8a6a0;
+  --inferentics-primitive-analytics-warm-neutral-400: #9a9892;
+  --inferentics-primitive-analytics-warm-neutral-600: #6b6964;
+  --inferentics-primitive-analytics-warm-neutral-700: #4a4844;
+  --inferentics-primitive-analytics-warm-neutral-900: #2c2a26;
+  --inferentics-primitive-analytics-warm-neutral-950: #0f0e0c;
+  --inferentics-primitive-analytics-green-50: #f1f7f3;
+  --inferentics-primitive-analytics-green-100: #e6f0ea;
+  --inferentics-primitive-analytics-green-200: #c7e0d2;
+  --inferentics-primitive-analytics-coral-500: #e76e4f;
+  --inferentics-primitive-analytics-overlay-ink-4: #0f0e0c0a;
+  --inferentics-primitive-analytics-overlay-ink-8: #0f0e0c14;
+  --inferentics-primitive-analytics-overlay-ink-12: #0f0e0c1f;
+  --inferentics-primitive-analytics-overlay-ink-28: #0f0e0c47;
+  --inferentics-primitive-analytics-overlay-ink-30: #0f0e0c4d;
+  --inferentics-primitive-analytics-overlay-brand-25: #07513340;
+
+  /* 6. Inferentics Colors (light) */
+  --inferentics-brand-primary: var(--inferentics-primitive-brand-green-500);
+  --inferentics-brand-primary-login: var(--inferentics-primitive-brand-green-600);
+  --inferentics-brand-primary-hover: var(--inferentics-primitive-brand-green-700);
+  --inferentics-brand-accent: var(--inferentics-primitive-brand-teal-500);
+  --inferentics-brand-identity-gradient-start: var(--inferentics-primitive-brand-navy-700);
+  --inferentics-brand-identity-gradient-end: var(--inferentics-primitive-brand-teal-500);
+  --inferentics-navigation-header-background: var(--inferentics-primitive-brand-green-500);
+  --inferentics-navigation-active: var(--inferentics-primitive-brand-teal-500);
+  --inferentics-navigation-on-header: #ffffff;
+  --inferentics-navigation-on-header-muted: var(--inferentics-primitive-overlay-white-50);
+  --inferentics-text-default: var(--inferentics-primitive-ink-base);
+  --inferentics-text-primary: var(--inferentics-primitive-ink-900);
+  --inferentics-text-heading: #27272a;
+  --inferentics-text-dashboard-heading: var(--inferentics-primitive-ink-slate-600);
+  --inferentics-text-dashboard-secondary: var(--inferentics-primitive-ink-slate-500);
+  --inferentics-text-dashboard-metadata: var(--inferentics-primitive-ink-slate-400);
+  --inferentics-text-form-control: #1f2937;
+  --inferentics-text-secondary: var(--inferentics-primitive-ink-800);
+  --inferentics-text-tertiary: var(--inferentics-primitive-ink-650);
+  --inferentics-text-muted: var(--inferentics-primitive-ink-500);
+  --inferentics-text-subtle: var(--inferentics-primitive-ink-450);
+  --inferentics-text-inverse: #ffffff;
+  --inferentics-text-disabled: var(--inferentics-primitive-overlay-black-54);
+  --inferentics-text-score: var(--inferentics-primitive-blue-750);
+  --inferentics-surface-page: #ffffff;
+  --inferentics-surface-card: #ffffff;
+  --inferentics-surface-canvas: var(--inferentics-primitive-surface-canvas);
+  --inferentics-surface-panel: var(--inferentics-primitive-surface-subtle);
+  --inferentics-surface-subtle: #f9fafb;
+  --inferentics-surface-neutral: #fafafa;
+  --inferentics-surface-glass: var(--inferentics-primitive-overlay-white-55);
+  --inferentics-surface-glass-subtle: var(--inferentics-primitive-overlay-white-6);
+  --inferentics-border-default: var(--inferentics-primitive-border-default);
+  --inferentics-border-input: var(--inferentics-primitive-border-input);
+  --inferentics-border-subtle: #e5e7eb;
+  --inferentics-border-card: var(--inferentics-primitive-border-card);
+  --inferentics-border-strong: var(--inferentics-primitive-border-strong);
+  --inferentics-border-selected: var(--inferentics-primitive-blue-700);
+  --inferentics-border-selected-question: var(--inferentics-primitive-blue-550);
+  --inferentics-border-premium: var(--inferentics-primitive-purple-200);
+  --inferentics-icon-primary: var(--inferentics-primitive-ink-800);
+  --inferentics-icon-secondary: var(--inferentics-primitive-ink-650);
+  --inferentics-icon-inverse: #ffffff;
+  --inferentics-icon-info: var(--inferentics-primitive-blue-700);
+  --inferentics-icon-premium: var(--inferentics-primitive-purple-800);
+  --inferentics-interaction-focus: var(--inferentics-primitive-blue-focus);
+  --inferentics-interaction-selected: var(--inferentics-primitive-blue-700);
+  --inferentics-interaction-selected-strong: var(--inferentics-primitive-blue-550);
+  --inferentics-interaction-hover: var(--inferentics-primitive-blue-interactive-alpha);
+  --inferentics-interaction-disabled: var(--inferentics-primitive-ink-disabled);
+  --inferentics-performance-improved: var(--inferentics-primitive-green-450);
+  --inferentics-performance-declined: var(--inferentics-primitive-red-450);
+  --inferentics-performance-unchanged: var(--inferentics-primitive-blue-750);
+  --inferentics-performance-score: var(--inferentics-primitive-blue-750);
+  --inferentics-performance-improved-badge: var(--inferentics-primitive-green-500);
+  --inferentics-performance-not-improved-badge: var(--inferentics-primitive-orange-350);
+  --inferentics-performance-new-badge: var(--inferentics-primitive-red-500);
+  --inferentics-performance-summary-background: var(--inferentics-primitive-green-highlight);
+  --inferentics-performance-summary-text: var(--inferentics-primitive-ink-summary);
+  --inferentics-instruction-reteach-surface: var(--inferentics-primitive-blue-50);
+  --inferentics-instruction-reteach-content-surface: var(--inferentics-primitive-blue-100);
+  --inferentics-instruction-reteach-border: var(--inferentics-primitive-blue-200);
+  --inferentics-instruction-reteach-label: var(--inferentics-primitive-blue-650);
+  --inferentics-instruction-reteach-text: var(--inferentics-primitive-blue-900);
+  --inferentics-instruction-brushup-surface: var(--inferentics-primitive-orange-50);
+  --inferentics-instruction-brushup-content-surface: var(--inferentics-primitive-orange-100);
+  --inferentics-instruction-brushup-border: var(--inferentics-primitive-orange-outline);
+  --inferentics-instruction-brushup-label: var(--inferentics-primitive-orange-450);
+  --inferentics-instruction-brushup-title: var(--inferentics-primitive-orange-800);
+  --inferentics-instruction-brushup-text: var(--inferentics-primitive-orange-body);
+  --inferentics-instruction-on-track-surface: var(--inferentics-primitive-green-50);
+  --inferentics-instruction-on-track-content-surface: var(--inferentics-primitive-green-tint);
+  --inferentics-instruction-on-track-border: var(--inferentics-primitive-green-200);
+  --inferentics-instruction-on-track-label: var(--inferentics-primitive-green-550);
+  --inferentics-instruction-on-track-title: var(--inferentics-primitive-green-550);
+  --inferentics-instruction-on-track-text: var(--inferentics-primitive-green-body);
+  --inferentics-student-weak-border: var(--inferentics-primitive-red-400);
+  --inferentics-student-weak-gradient-start: var(--inferentics-primitive-red-300);
+  --inferentics-student-weak-gradient-middle: var(--inferentics-primitive-red-400);
+  --inferentics-student-weak-gradient-end: var(--inferentics-primitive-red-600);
+  --inferentics-student-lagging-border: var(--inferentics-primitive-orange-500);
+  --inferentics-student-lagging-gradient-start: var(--inferentics-primitive-orange-300);
+  --inferentics-student-lagging-gradient-middle: var(--inferentics-primitive-orange-500);
+  --inferentics-student-lagging-gradient-end: var(--inferentics-primitive-orange-600);
+  --inferentics-student-performing-well-border: var(--inferentics-primitive-green-350);
+  --inferentics-student-performing-well-gradient-start: var(--inferentics-primitive-green-300);
+  --inferentics-student-performing-well-gradient-middle: var(--inferentics-primitive-green-350);
+  --inferentics-student-performing-well-gradient-end: var(--inferentics-primitive-green-650);
+  --inferentics-question-result-full: var(--inferentics-primitive-green-450);
+  --inferentics-question-result-partial: var(--inferentics-primitive-orange-partial);
+  --inferentics-question-result-wrong: var(--inferentics-primitive-orange-700);
+  --inferentics-question-result-selected: var(--inferentics-primitive-blue-550);
+  --inferentics-question-result-badge-gradient-start: var(--inferentics-primitive-ink-700);
+  --inferentics-question-result-badge-gradient-end: var(--inferentics-primitive-ink-950);
+  --inferentics-question-result-success-gradient-start: var(--inferentics-primitive-green-illustration-start);
+  --inferentics-question-result-success-gradient-end: var(--inferentics-primitive-green-400);
+  --inferentics-ranking-first: var(--inferentics-primitive-red-450);
+  --inferentics-ranking-second: var(--inferentics-primitive-orange-400);
+  --inferentics-ranking-third: var(--inferentics-primitive-orange-yellow);
+  --inferentics-data-visualization-blue-primary: var(--inferentics-primitive-blue-600);
+  --inferentics-data-visualization-blue-secondary: var(--inferentics-primitive-blue-400);
+  --inferentics-data-visualization-blue-interactive: var(--inferentics-primitive-blue-500);
+  --inferentics-data-visualization-green: var(--inferentics-primitive-green-450);
+  --inferentics-data-visualization-orange: var(--inferentics-primitive-orange-450);
+  --inferentics-data-visualization-red: var(--inferentics-primitive-red-450);
+  --inferentics-data-visualization-purple: var(--inferentics-primitive-purple-600);
+  --inferentics-data-visualization-neutral: var(--inferentics-primitive-ink-400);
+  --inferentics-premium-surface: var(--inferentics-primitive-purple-50);
+  --inferentics-premium-border: var(--inferentics-primitive-purple-200);
+  --inferentics-premium-action: var(--inferentics-primitive-purple-600);
+  --inferentics-premium-content: var(--inferentics-primitive-purple-800);
+  --inferentics-premium-glass: var(--inferentics-primitive-overlay-white-55);
+  --inferentics-premium-shadow: var(--inferentics-primitive-overlay-purple-16);
+  --inferentics-premium-accent-shadow: var(--inferentics-primitive-overlay-violet-18);
+  --inferentics-effect-color-shadow-subtle: var(--inferentics-primitive-overlay-black-8);
+  --inferentics-effect-color-shadow-default: var(--inferentics-primitive-overlay-black-10);
+  --inferentics-effect-color-shadow-medium: var(--inferentics-primitive-overlay-black-12);
+  --inferentics-effect-color-shadow-strong: var(--inferentics-primitive-overlay-black-19);
+  --inferentics-effect-color-shadow-navy: var(--inferentics-primitive-overlay-navy-16);
+  --inferentics-effect-color-inset-highlight: var(--inferentics-primitive-overlay-white-85);
+  --inferentics-effect-color-inset-highlight-soft: var(--inferentics-primitive-overlay-white-80);
+  --inferentics-effect-color-scrim: var(--inferentics-primitive-overlay-black-36);
+  --inferentics-analytics-brand-primary: var(--inferentics-primitive-analytics-brand-green-600);
+  --inferentics-analytics-brand-primary-hover: var(--inferentics-primitive-analytics-brand-green-700);
+  --inferentics-analytics-brand-on-primary: #ffffff;
+  --inferentics-analytics-text-strong: var(--inferentics-primitive-analytics-warm-neutral-950);
+  --inferentics-analytics-text-primary: var(--inferentics-primitive-analytics-warm-neutral-900);
+  --inferentics-analytics-text-secondary: var(--inferentics-primitive-analytics-warm-neutral-600);
+  --inferentics-analytics-text-tertiary: var(--inferentics-primitive-analytics-warm-neutral-350);
+  --inferentics-analytics-text-control: var(--inferentics-primitive-analytics-warm-neutral-700);
+  --inferentics-analytics-text-disabled: var(--inferentics-primitive-analytics-warm-neutral-400);
+  --inferentics-analytics-text-inverse: #ffffff;
+  --inferentics-analytics-text-brand: var(--inferentics-primitive-analytics-brand-green-600);
+  --inferentics-analytics-surface-page: #fafaf9;
+  --inferentics-analytics-surface-card: #ffffff;
+  --inferentics-analytics-surface-subtle: var(--inferentics-primitive-analytics-warm-neutral-200);
+  --inferentics-analytics-surface-avatar: var(--inferentics-primitive-analytics-green-100);
+  --inferentics-analytics-surface-interactive-hover: var(--inferentics-primitive-analytics-green-50);
+  --inferentics-analytics-border-default: var(--inferentics-primitive-analytics-warm-neutral-200);
+  --inferentics-analytics-border-disabled: var(--inferentics-primitive-analytics-warm-neutral-300);
+  --inferentics-analytics-border-interactive-hover: var(--inferentics-primitive-analytics-green-200);
+  --inferentics-analytics-icon-primary: var(--inferentics-primitive-analytics-warm-neutral-700);
+  --inferentics-analytics-icon-secondary: var(--inferentics-primitive-analytics-warm-neutral-600);
+  --inferentics-analytics-icon-brand: var(--inferentics-primitive-analytics-brand-green-600);
+  --inferentics-analytics-icon-disabled: var(--inferentics-primitive-analytics-warm-neutral-400);
+  --inferentics-analytics-icon-inverse: #ffffff;
+  --inferentics-analytics-navigation-selected-surface: var(--inferentics-primitive-analytics-warm-neutral-100);
+  --inferentics-analytics-navigation-selected-content: var(--inferentics-primitive-analytics-brand-green-600);
+  --inferentics-analytics-navigation-default-content: var(--inferentics-primitive-analytics-warm-neutral-700);
+  --inferentics-analytics-navigation-section-label: var(--inferentics-primitive-analytics-warm-neutral-350);
+  --inferentics-analytics-performance-positive: #16a34a;
+  --inferentics-analytics-performance-positive-surface: #dcfce7;
+  --inferentics-analytics-status-upcoming-surface: var(--inferentics-primitive-analytics-warm-neutral-100);
+  --inferentics-analytics-status-upcoming-badge: var(--inferentics-primitive-analytics-warm-neutral-200);
+  --inferentics-analytics-status-upcoming-border: var(--inferentics-primitive-analytics-warm-neutral-300);
+  --inferentics-analytics-status-upcoming-content: var(--inferentics-primitive-analytics-warm-neutral-400);
+  --inferentics-analytics-accent-coral: var(--inferentics-primitive-analytics-coral-500);
+  --inferentics-analytics-overlay-dialog: var(--inferentics-primitive-analytics-overlay-ink-30);
+  --inferentics-analytics-shadow-card: var(--inferentics-primitive-analytics-overlay-ink-4);
+  --inferentics-analytics-shadow-menu: var(--inferentics-primitive-analytics-overlay-ink-12);
+  --inferentics-analytics-shadow-hover: var(--inferentics-primitive-analytics-overlay-ink-8);
+  --inferentics-analytics-shadow-action: var(--inferentics-primitive-analytics-overlay-brand-25);
+  --inferentics-analytics-shadow-dialog: var(--inferentics-primitive-analytics-overlay-ink-28);
+}
+
+.dark {
+  /* colors (dark) */
+  --background: #020617;
+  --foreground: #f8fafc;
+  --muted: #1e293b;
+  --muted-foreground: #94a3b8;
+  --card: #020617;
+  --card-foreground: #f8fafc;
+  --popover: #020617;
+  --popover-foreground: #f8fafc;
+  --border: #334155;
+  --input: #334155;
+  --primary: #f8fafc;
+  --primary-foreground: #0f172a;
+  --secondary: #1e293b;
+  --secondary-foreground: #f8fafc;
+  --accent: #1e293b;
+  --accent-foreground: #f8fafc;
+  --destructive: #7f1d1d;
+  --destructive-foreground: #f8fafc;
+  --ring: #94a3b8;
+  --chart-1: #2661d8;
+  --chart-2: #2cb789;
+  --chart-3: #e88c30;
+  --chart-4: #af56db;
+  --chart-5: #e2366f;
+  --sidebar: #18181b;
+  --sidebar-foreground: #f4f4f5;
+  --sidebar-primary: #1d4ed8;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #27272a;
+  --sidebar-accent-foreground: #f4f4f5;
+  --sidebar-border: #27272a;
+  --sidebar-ring: #3b82f6;
+}
+
+@theme {
+  /* semantic spacing scale — utilities like gap-sp-xxs, p-sp-sm, m-sp-3xl (never bare p-3xl, which clashes with max-w-3xl in Tailwind v4) */
+  --spacing-sp-none: 0rem;
+  --spacing-sp-xxs: 0.125rem;
+  --spacing-sp-md: 0.5rem;
+  --spacing-sp-xs: 0.25rem;
+  --spacing-sp-sm: 0.375rem;
+  --spacing-sp-lg: 0.75rem;
+  --spacing-sp-xl: 1rem;
+  --spacing-sp-2xl: 1.25rem;
+  --spacing-sp-3xl: 1.5rem;
+  --spacing-sp-4xl: 2rem;
+  --spacing-sp-5xl: 2.5rem;
+  --spacing-sp-6xl: 3rem;
+  --spacing-sp-7xl: 4rem;
+}
+/* AUTOGEN:TOKENS:END */
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --radius-xs: calc(var(--radius) * 0.5);
+  --radius-sm: calc(var(--radius) * 0.75);
+  --radius-md: calc(var(--radius) * 0.875);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.5);
+
+  --font-sans: var(--font-inter), "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), "Geist Mono", ui-monospace, monospace;
+}
+
+@utility text-ds-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  letter-spacing: -0.006em;
+}
+
+@utility text-ds-xs-tight {
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+  letter-spacing: -0.006em;
+}
+
+@utility text-ds-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  letter-spacing: 0;
+}
+
+@utility text-ds-sm-tight {
+  font-size: 0.875rem;
+  line-height: 0.875rem;
+  letter-spacing: -0.006em;
+}
+
+@utility text-ds-display-xs {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  letter-spacing: -0.006em;
+}
+
+@utility text-ds-display-sm {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  letter-spacing: -0.006em;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}

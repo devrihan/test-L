@@ -1,0 +1,427 @@
+{
+  "inferentics-primitive": {
+    "$type": "color",
+    "$description": "Exact color values observed in the authenticated Inferentics application and its interaction styles.",
+    "$extensions": {
+      "com.figma.scopes": ["ALL_SCOPES"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "brand": {
+      "green-700": { "$value": "#0a5d2d", "$description": "Dark brand green used for hover states." },
+      "green-600": { "$value": "#0f7a3c", "$description": "Inferentics login and primary brand green." },
+      "green-500": { "$value": "#007944", "$description": "Authenticated application header green." },
+      "teal-500": { "$value": "#6baaae", "$description": "Inferentics accent teal used for active navigation." },
+      "navy-700": { "$value": "#133951", "$description": "Dark avatar and identity gradient stop." }
+    },
+    "ink": {
+      "base": { "$value": "#171717", "$description": "Default application foreground." },
+      "gray-900": { "$value": "#101828", "$description": "Strong Tailwind gray text used by authentication views." },
+      "gray-700": { "$value": "#364153", "$description": "Strong Tailwind gray supporting text." },
+      "gray-600": { "$value": "#4a5565", "$description": "Tailwind gray control label text." },
+      "gray-500": { "$value": "#6a7282", "$description": "Tailwind gray descriptive text." },
+      "slate-700": { "$value": "#314158", "$description": "Strong dashboard slate text." },
+      "slate-600": { "$value": "#45556c", "$description": "Dashboard heading slate text." },
+      "slate-500": { "$value": "#62748e", "$description": "Dashboard supporting slate text." },
+      "slate-400": { "$value": "#90a1b9", "$description": "Dashboard date and metadata slate text." },
+      "950": { "$value": "#202020", "$description": "Near-black gradient and display ink." },
+      "900": { "$value": "#23262f", "$description": "Primary report text." },
+      "850": { "$value": "#313131", "$description": "Strong body text." },
+      "800": { "$value": "#40566d", "$description": "Input, icon, and control text." },
+      "700": { "$value": "#5c616d", "$description": "Supporting description text." },
+      "650": { "$value": "#58728d", "$description": "Metadata and chapter label text." },
+      "600": { "$value": "#6c849d", "$description": "Question statistics label text." },
+      "550": { "$value": "#768ea7", "$description": "Secondary score text." },
+      "500": { "$value": "#888b96", "$description": "Muted report text." },
+      "450": { "$value": "#90a5bb", "$description": "Student metadata text." },
+      "400": { "$value": "#a3b3c6", "$description": "Subtle data visualization neutral." },
+      "disabled": { "$value": "#99a1af", "$description": "Disabled text from the deployed Tailwind palette." },
+      "summary": { "$value": "#192e03", "$description": "Dark green text used on positive summary pills." }
+    },
+    "surface": {
+      "canvas": { "$value": "#f1f5fa", "$description": "Main tinted application surface." },
+      "subtle": { "$value": "#f8fafc", "$description": "Side panel and inset surface." },
+      "success": { "$value": "#f6ffed", "$description": "Positive comparison surface." },
+      "warning": { "$value": "#fff7e6", "$description": "Brush-up and warning surface." },
+      "premium": { "$value": "#f9f0ff", "$description": "Premium feature surface." },
+      "error": { "$value": "#fff1f0", "$description": "Negative comparison surface." }
+    },
+    "border": {
+      "input": { "$value": "#d1d5dc", "$description": "Native control border from the deployed Tailwind palette." },
+      "soft-blue": { "$value": "#e3eaf3", "$description": "Soft blue divider and marks surface." },
+      "default": { "$value": "#e6e8ec", "$description": "Default Inferentics control and card border." },
+      "subtle": { "$value": "#e4e4e4", "$description": "Subtle elevated-card border." },
+      "card": { "$value": "#e5e5e5", "$description": "Report card border." },
+      "medium": { "$value": "#d6d6d6", "$description": "Comparison card border." },
+      "strong": { "$value": "#cecece", "$description": "Strong panel divider." },
+      "neutral-500": { "$value": "#bcc2c8", "$description": "Data and control border neutral." },
+      "neutral-450": { "$value": "#c6c7cd", "$description": "Secondary control border neutral." },
+      "neutral-400": { "$value": "#d2d2d2", "$description": "Soft control border neutral." }
+    },
+    "blue": {
+      "50": { "$value": "#eff6ff", "$description": "Reteach outer surface." },
+      "100": { "$value": "#dbeafe", "$description": "Reteach inset surface." },
+      "200": { "$value": "#b8e6fe", "$description": "Reteach outline." },
+      "400": { "$value": "#597ef7", "$description": "Secondary data blue." },
+      "500": { "$value": "#3772ff", "$description": "Interactive chart blue." },
+      "550": { "$value": "#3362ff", "$description": "Selected question border." },
+      "600": { "$value": "#2f54eb", "$description": "Primary data visualization blue." },
+      "650": { "$value": "#155dfc", "$description": "Reteach label blue." },
+      "focus": { "$value": "#3080ff", "$description": "Focus ring blue from the deployed Tailwind palette." },
+      "700": { "$value": "#007aff", "$description": "Selected chapter and exam blue." },
+      "750": { "$value": "#0066cc", "$description": "Score and accuracy blue." },
+      "800": { "$value": "#1d39c4", "$description": "Strong informational text blue." },
+      "900": { "$value": "#0069a4", "$description": "Reteach explanatory text." },
+      "tint": { "$value": "#d6e4ff", "$description": "Blue information tint." },
+      "interactive-alpha": { "$value": "#3772ff1a", "$description": "Ten-percent interactive blue hover surface." }
+    },
+    "green": {
+      "50": { "$value": "#f0fdf4", "$description": "On-track outer surface." },
+      "200": { "$value": "#b9f8cf", "$description": "On-track outline." },
+      "300": { "$value": "#7bf1a8", "$description": "Performing-well avatar gradient start." },
+      "350": { "$value": "#05df72", "$description": "Performing-well avatar gradient midpoint." },
+      "400": { "$value": "#73d98d", "$description": "Success illustration gradient end." },
+      "450": { "$value": "#34c759", "$description": "Improvement and positive change." },
+      "500": { "$value": "#52c41a", "$description": "Improved status badge." },
+      "550": { "$value": "#389e0d", "$description": "On-track status and class-average surface." },
+      "600": { "$value": "#2a914d", "$description": "Most-improved comparison text." },
+      "650": { "$value": "#00a544", "$description": "Performing-well avatar gradient end." },
+      "body": { "$value": "#008138", "$description": "On-track explanatory body text." },
+      "tint": { "$value": "#d9f7be", "$description": "On-track explanatory surface." },
+      "highlight": { "$value": "#b7eb8f", "$description": "Improvement summary pill." },
+      "illustration-start": { "$value": "#d7f0de", "$description": "Success illustration gradient start." }
+    },
+    "orange": {
+      "50": { "$value": "#fff7e6", "$description": "Brush-up outer surface." },
+      "100": { "$value": "#ffe7ba", "$description": "Brush-up inset surface." },
+      "200": { "$value": "#ffd591", "$description": "Soft orange information surface." },
+      "outline": { "$value": "#ffd7a8", "$description": "Brush-up outline from the deployed Tailwind palette." },
+      "300": { "$value": "#ffb96d", "$description": "Lagging avatar gradient start." },
+      "350": { "$value": "#ffa940", "$description": "Not-improved status badge." },
+      "400": { "$value": "#ff9500", "$description": "Second-priority ranking marker." },
+      "450": { "$value": "#fa8c16", "$description": "Brush-up status." },
+      "500": { "$value": "#ff8b1a", "$description": "Lagging avatar gradient midpoint." },
+      "600": { "$value": "#f05100", "$description": "Lagging avatar gradient end." },
+      "700": { "$value": "#d46b08", "$description": "Warning and wrong-answer text." },
+      "800": { "$value": "#ad4e00", "$description": "Brush-up explanatory text." },
+      "body": { "$value": "#c53c00", "$description": "Brush-up recommendation body text." },
+      "yellow": { "$value": "#ffc53d", "$description": "Third-priority ranking marker." },
+      "partial": { "$value": "#ad8b00", "$description": "Partial-credit question result." },
+      "amber-gradient": { "$value": "#e2a300", "$description": "Amber visualization gradient stop." }
+    },
+    "red": {
+      "50": { "$value": "#fff1f0", "$description": "Negative learning-gap surface." },
+      "300": { "$value": "#ffa3a3", "$description": "Weak-student avatar gradient start." },
+      "400": { "$value": "#ff6568", "$description": "Weak-student avatar gradient midpoint." },
+      "450": { "$value": "#db6861", "$description": "Decline and weakest-item marker." },
+      "500": { "$value": "#ff4d4f", "$description": "New or wrong status badge." },
+      "600": { "$value": "#e40014", "$description": "Weak-student avatar gradient end." },
+      "700": { "$value": "#cf1322", "$description": "Strong destructive text." }
+    },
+    "purple": {
+      "50": { "$value": "#f9f0ff", "$description": "Premium outer surface." },
+      "200": { "$value": "#d3adf7", "$description": "Premium feature border." },
+      "600": { "$value": "#9254de", "$description": "Premium action background." },
+      "800": { "$value": "#531dab", "$description": "Premium heading and icon color." }
+    },
+    "amber": {
+      "200": { "$value": "#fee685", "$description": "Light amber structural surface present in the application header." },
+      "600": { "$value": "#dd7400", "$description": "Amber structural navigation surface." }
+    },
+    "overlay": {
+      "black-8": { "$value": "#00000014", "$description": "Eight-percent black shadow tint." },
+      "black-10": { "$value": "#0000001a", "$description": "Ten-percent black shadow tint." },
+      "black-12": { "$value": "#0000001f", "$description": "Twelve-percent black shadow tint." },
+      "black-15": { "$value": "#00000026", "$description": "Fifteen-percent black shadow tint." },
+      "black-19": { "$value": "#00000030", "$description": "Nineteen-percent black shadow tint." },
+      "black-25": { "$value": "#00000040", "$description": "Twenty-five-percent black overlay." },
+      "black-36": { "$value": "#0000005c", "$description": "Thirty-six-percent black overlay." },
+      "black-40": { "$value": "#00000066", "$description": "Forty-percent black overlay." },
+      "black-50": { "$value": "#00000080", "$description": "Fifty-percent black text and overlay." },
+      "black-54": { "$value": "#0000008a", "$description": "Fifty-four-percent black text." },
+      "white-6": { "$value": "#ffffff0f", "$description": "Six-percent white glass surface." },
+      "white-8": { "$value": "#ffffff14", "$description": "Eight-percent white overlay." },
+      "white-20": { "$value": "#ffffff33", "$description": "Twenty-percent white divider and overlay." },
+      "white-50": { "$value": "#ffffff80", "$description": "Fifty-percent white text." },
+      "white-55": { "$value": "#ffffff8c", "$description": "Fifty-five-percent white glass surface." },
+      "white-70": { "$value": "#ffffffb3", "$description": "Seventy-percent white text and overlay." },
+      "white-80": { "$value": "#ffffffcc", "$description": "Eighty-percent white inset highlight." },
+      "white-85": { "$value": "#ffffffd9", "$description": "Eighty-five-percent white inset highlight." },
+      "blue-10": { "$value": "#3772ff1a", "$description": "Ten-percent blue hover overlay." },
+      "teal-10": { "$value": "#6baaae1a", "$description": "Ten-percent Inferentics teal surface." },
+      "teal-20": { "$value": "#6baaae33", "$description": "Twenty-percent Inferentics teal border." },
+      "purple-16": { "$value": "#3d127429", "$description": "Sixteen-percent purple premium shadow." },
+      "violet-18": { "$value": "#9747ff2e", "$description": "Eighteen-percent violet accent shadow." },
+      "navy-16": { "$value": "#2d385329", "$description": "Sixteen-percent navy elevation shadow." }
+    },
+    "analytics": {
+      "brand": {
+        "green-700": { "$value": "#053d26", "$description": "Dark HOD analytics brand green used by primary-action hover states." },
+        "green-600": { "$value": "#075133", "$description": "HOD analytics brand green used by primary actions, active content, and identity marks." }
+      },
+      "warm-neutral": {
+        "950": { "$value": "#0f0e0c", "$description": "Strongest warm ink used by HOD analytics headings and exam scores." },
+        "900": { "$value": "#2c2a26", "$description": "Primary warm text used throughout HOD analytics." },
+        "700": { "$value": "#4a4844", "$description": "Control and inactive-navigation text in HOD analytics." },
+        "600": { "$value": "#6b6964", "$description": "Secondary text and icon color in HOD analytics." },
+        "400": { "$value": "#9a9892", "$description": "Disabled and upcoming-content color in HOD analytics." },
+        "350": { "$value": "#a8a6a0", "$description": "Tertiary labels, section labels, and low-emphasis icons in HOD analytics." },
+        "300": { "$value": "#d4d2cc", "$description": "Disabled upcoming-card border in HOD analytics." },
+        "200": { "$value": "#e7e5e0", "$description": "Default border and muted badge surface in HOD analytics." },
+        "100": { "$value": "#f4f4f2", "$description": "Selected navigation and upcoming-card surface in HOD analytics." }
+      },
+      "green": {
+        "200": { "$value": "#c7e0d2", "$description": "Green-tinted hover border used by interactive HOD analytics cards." },
+        "100": { "$value": "#e6f0ea", "$description": "Soft green avatar and identity surface in HOD analytics." },
+        "50": { "$value": "#f1f7f3", "$description": "Pale green hover surface used by HOD analytics cards and controls." }
+      },
+      "coral": {
+        "500": { "$value": "#e76e4f", "$description": "Coral accent marker used in the HOD analytics navigation and exam interface." }
+      },
+      "overlay": {
+        "ink-4": { "$value": "#0f0e0c0a", "$description": "Four-percent warm ink used by resting exam-card shadows." },
+        "ink-8": { "$value": "#0f0e0c14", "$description": "Eight-percent warm ink used by elevated card hover shadows." },
+        "ink-12": { "$value": "#0f0e0c1f", "$description": "Twelve-percent warm ink used by filter dropdown shadows." },
+        "ink-28": { "$value": "#0f0e0c47", "$description": "Twenty-eight-percent warm ink used by the comparison dialog shadow." },
+        "ink-30": { "$value": "#0f0e0c4d", "$description": "Thirty-percent warm ink used by the comparison dialog scrim." },
+        "brand-25": { "$value": "#07513340", "$description": "Twenty-five-percent analytics brand green used by primary-action shadows." }
+      }
+    }
+  },
+  "inferentics": {
+    "$type": "color",
+    "$description": "Semantic light-mode color tokens for the Inferentics product.",
+    "$extensions": {
+      "com.figma.scopes": ["ALL_SCOPES"],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "brand": {
+      "primary": { "$value": "{inferentics-primitive.brand.green-500}", "$description": "Authenticated Inferentics brand and header color." },
+      "primary-login": { "$value": "{inferentics-primitive.brand.green-600}", "$description": "Primary brand color on login and authentication views." },
+      "primary-hover": { "$value": "{inferentics-primitive.brand.green-700}", "$description": "Hover color for primary brand actions." },
+      "accent": { "$value": "{inferentics-primitive.brand.teal-500}", "$description": "Inferentics accent and active-navigation color." },
+      "identity-gradient-start": { "$value": "{inferentics-primitive.brand.navy-700}", "$description": "Dark stop of the user identity gradient." },
+      "identity-gradient-end": { "$value": "{inferentics-primitive.brand.teal-500}", "$description": "Light stop of the user identity gradient." }
+    },
+    "navigation": {
+      "header-background": { "$value": "{inferentics-primitive.brand.green-500}", "$description": "Authenticated top header background." },
+      "active": { "$value": "{inferentics-primitive.brand.teal-500}", "$description": "Active navigation text and underline." },
+      "on-header": { "$value": "{base.white}", "$description": "Text and icons displayed on the green header." },
+      "on-header-muted": { "$value": "{inferentics-primitive.overlay.white-50}", "$description": "Muted content displayed on dark brand surfaces." }
+    },
+    "text": {
+      "default": { "$value": "{inferentics-primitive.ink.base}", "$description": "Default application foreground." },
+      "primary": { "$value": "{inferentics-primitive.ink.900}", "$description": "Primary report and detail text." },
+      "heading": { "$value": "{zinc.800}", "$description": "Major dashboard section headings." },
+      "dashboard-heading": { "$value": "{inferentics-primitive.ink.slate-600}", "$description": "Dashboard page and student-band headings." },
+      "dashboard-secondary": { "$value": "{inferentics-primitive.ink.slate-500}", "$description": "Dashboard supporting text." },
+      "dashboard-metadata": { "$value": "{inferentics-primitive.ink.slate-400}", "$description": "Dashboard dates and metadata." },
+      "form-control": { "$value": "{gray.800}", "$description": "Dark text and icons inside form controls." },
+      "secondary": { "$value": "{inferentics-primitive.ink.800}", "$description": "Secondary labels, inputs, and icon text." },
+      "tertiary": { "$value": "{inferentics-primitive.ink.650}", "$description": "Metadata and supporting labels." },
+      "muted": { "$value": "{inferentics-primitive.ink.500}", "$description": "Muted report content." },
+      "subtle": { "$value": "{inferentics-primitive.ink.450}", "$description": "Low-emphasis student and date metadata." },
+      "inverse": { "$value": "{base.white}", "$description": "Text on dark, brand, status, or data surfaces." },
+      "disabled": { "$value": "{inferentics-primitive.overlay.black-54}", "$description": "Disabled and low-emphasis text." },
+      "score": { "$value": "{inferentics-primitive.blue.750}", "$description": "Student score and accuracy values." }
+    },
+    "surface": {
+      "page": { "$value": "{base.white}", "$description": "Default page background." },
+      "card": { "$value": "{base.white}", "$description": "Default card and control surface." },
+      "canvas": { "$value": "{inferentics-primitive.surface.canvas}", "$description": "Main tinted dashboard canvas." },
+      "panel": { "$value": "{inferentics-primitive.surface.subtle}", "$description": "Side panel and inset panel background." },
+      "subtle": { "$value": "{gray.50}", "$description": "Neutral empty-state and content surface." },
+      "neutral": { "$value": "{neutral.50}", "$description": "Neutral report inset surface." },
+      "glass": { "$value": "{inferentics-primitive.overlay.white-55}", "$description": "Translucent glass surface used by premium cards." },
+      "glass-subtle": { "$value": "{inferentics-primitive.overlay.white-6}", "$description": "Low-opacity glass surface used over visualizations." }
+    },
+    "border": {
+      "default": { "$value": "{inferentics-primitive.border.default}", "$description": "Default Inferentics component border." },
+      "input": { "$value": "{inferentics-primitive.border.input}", "$description": "Default native select and authentication input border." },
+      "subtle": { "$value": "{gray.200}", "$description": "Soft list-item and card border." },
+      "card": { "$value": "{inferentics-primitive.border.card}", "$description": "Report and detail card border." },
+      "strong": { "$value": "{inferentics-primitive.border.strong}", "$description": "Strong panel divider." },
+      "selected": { "$value": "{inferentics-primitive.blue.700}", "$description": "Selected chapter border." },
+      "selected-question": { "$value": "{inferentics-primitive.blue.550}", "$description": "Selected question border." },
+      "premium": { "$value": "{inferentics-primitive.purple.200}", "$description": "Premium feature border." }
+    },
+    "icon": {
+      "primary": { "$value": "{inferentics-primitive.ink.800}", "$description": "Default control and search icon." },
+      "secondary": { "$value": "{inferentics-primitive.ink.650}", "$description": "Muted metadata icon." },
+      "inverse": { "$value": "{base.white}", "$description": "Icon on dark or colored surfaces." },
+      "info": { "$value": "{inferentics-primitive.blue.700}", "$description": "Informational question and chapter icon." },
+      "premium": { "$value": "{inferentics-primitive.purple.800}", "$description": "Premium sparkle and lock icon." }
+    },
+    "interaction": {
+      "focus": { "$value": "{inferentics-primitive.blue.focus}", "$description": "Keyboard focus ring for native controls." },
+      "selected": { "$value": "{inferentics-primitive.blue.700}", "$description": "Selected content and exam state." },
+      "selected-strong": { "$value": "{inferentics-primitive.blue.550}", "$description": "Strong selection state for question cards." },
+      "hover": { "$value": "{inferentics-primitive.blue.interactive-alpha}", "$description": "Blue-tinted interactive hover surface." },
+      "disabled": { "$value": "{inferentics-primitive.ink.disabled}", "$description": "Disabled interactive control." }
+    },
+    "performance": {
+      "improved": { "$value": "{inferentics-primitive.green.450}", "$description": "Positive change in chapter or student performance." },
+      "declined": { "$value": "{inferentics-primitive.red.450}", "$description": "Negative change in chapter or student performance." },
+      "unchanged": { "$value": "{inferentics-primitive.blue.750}", "$description": "Stable score or unchanged performance." },
+      "score": { "$value": "{inferentics-primitive.blue.750}", "$description": "Current score and accuracy value." },
+      "improved-badge": { "$value": "{inferentics-primitive.green.500}", "$description": "Improved status badge background." },
+      "not-improved-badge": { "$value": "{inferentics-primitive.orange.350}", "$description": "Not-improved status badge background." },
+      "new-badge": { "$value": "{inferentics-primitive.red.500}", "$description": "New gap or concept badge background." },
+      "summary-background": { "$value": "{inferentics-primitive.green.highlight}", "$description": "Positive change summary pill." },
+      "summary-text": { "$value": "{inferentics-primitive.ink.summary}", "$description": "Text on a positive change summary pill." }
+    },
+    "instruction": {
+      "reteach": {
+        "surface": { "$value": "{inferentics-primitive.blue.50}", "$description": "Reteach recommendation outer surface." },
+        "content-surface": { "$value": "{inferentics-primitive.blue.100}", "$description": "Reteach recommendation inset surface." },
+        "border": { "$value": "{inferentics-primitive.blue.200}", "$description": "Reteach recommendation outline." },
+        "label": { "$value": "{inferentics-primitive.blue.650}", "$description": "Reteach recommendation label background." },
+        "text": { "$value": "{inferentics-primitive.blue.900}", "$description": "Reteach recommendation explanatory text." }
+      },
+      "brushup": {
+        "surface": { "$value": "{inferentics-primitive.orange.50}", "$description": "Brush-up recommendation outer surface." },
+        "content-surface": { "$value": "{inferentics-primitive.orange.100}", "$description": "Brush-up recommendation inset surface." },
+        "border": { "$value": "{inferentics-primitive.orange.outline}", "$description": "Brush-up recommendation outline." },
+        "label": { "$value": "{inferentics-primitive.orange.450}", "$description": "Brush-up recommendation label background." },
+        "title": { "$value": "{inferentics-primitive.orange.800}", "$description": "Brush-up recommendation title and icon." },
+        "text": { "$value": "{inferentics-primitive.orange.body}", "$description": "Brush-up recommendation explanatory text." }
+      },
+      "on-track": {
+        "surface": { "$value": "{inferentics-primitive.green.50}", "$description": "On-track recommendation outer surface." },
+        "content-surface": { "$value": "{inferentics-primitive.green.tint}", "$description": "On-track recommendation inset surface." },
+        "border": { "$value": "{inferentics-primitive.green.200}", "$description": "On-track recommendation outline." },
+        "label": { "$value": "{inferentics-primitive.green.550}", "$description": "On-track recommendation and class-average background." },
+        "title": { "$value": "{inferentics-primitive.green.550}", "$description": "On-track recommendation title and icon." },
+        "text": { "$value": "{inferentics-primitive.green.body}", "$description": "On-track recommendation explanatory text." }
+      }
+    },
+    "student": {
+      "weak": {
+        "border": { "$value": "{inferentics-primitive.red.400}", "$description": "Weak-student group border." },
+        "gradient-start": { "$value": "{inferentics-primitive.red.300}", "$description": "Weak-student avatar gradient start." },
+        "gradient-middle": { "$value": "{inferentics-primitive.red.400}", "$description": "Weak-student avatar gradient midpoint." },
+        "gradient-end": { "$value": "{inferentics-primitive.red.600}", "$description": "Weak-student avatar gradient end." }
+      },
+      "lagging": {
+        "border": { "$value": "{inferentics-primitive.orange.500}", "$description": "Lagging-student group border." },
+        "gradient-start": { "$value": "{inferentics-primitive.orange.300}", "$description": "Lagging-student avatar gradient start." },
+        "gradient-middle": { "$value": "{inferentics-primitive.orange.500}", "$description": "Lagging-student avatar gradient midpoint." },
+        "gradient-end": { "$value": "{inferentics-primitive.orange.600}", "$description": "Lagging-student avatar gradient end." }
+      },
+      "performing-well": {
+        "border": { "$value": "{inferentics-primitive.green.350}", "$description": "Performing-well student group border." },
+        "gradient-start": { "$value": "{inferentics-primitive.green.300}", "$description": "Performing-well avatar gradient start." },
+        "gradient-middle": { "$value": "{inferentics-primitive.green.350}", "$description": "Performing-well avatar gradient midpoint." },
+        "gradient-end": { "$value": "{inferentics-primitive.green.650}", "$description": "Performing-well avatar gradient end." }
+      }
+    },
+    "question-result": {
+      "full": { "$value": "{inferentics-primitive.green.450}", "$description": "Full-marks question result." },
+      "partial": { "$value": "{inferentics-primitive.orange.partial}", "$description": "Partial-credit question result." },
+      "wrong": { "$value": "{inferentics-primitive.orange.700}", "$description": "Wrong-answer question result." },
+      "selected": { "$value": "{inferentics-primitive.blue.550}", "$description": "Selected question card border." },
+      "badge-gradient-start": { "$value": "{inferentics-primitive.ink.700}", "$description": "Question-number badge gradient start." },
+      "badge-gradient-end": { "$value": "{inferentics-primitive.ink.950}", "$description": "Question-number badge gradient end." },
+      "success-gradient-start": { "$value": "{inferentics-primitive.green.illustration-start}", "$description": "Correct-answer illustration gradient start." },
+      "success-gradient-end": { "$value": "{inferentics-primitive.green.400}", "$description": "Correct-answer illustration gradient end." }
+    },
+    "ranking": {
+      "first": { "$value": "{inferentics-primitive.red.450}", "$description": "First and weakest priority marker." },
+      "second": { "$value": "{inferentics-primitive.orange.400}", "$description": "Second priority marker." },
+      "third": { "$value": "{inferentics-primitive.orange.yellow}", "$description": "Third priority marker." }
+    },
+    "data-visualization": {
+      "blue-primary": { "$value": "{inferentics-primitive.blue.600}", "$description": "Primary blue data series." },
+      "blue-secondary": { "$value": "{inferentics-primitive.blue.400}", "$description": "Secondary blue data series." },
+      "blue-interactive": { "$value": "{inferentics-primitive.blue.500}", "$description": "Interactive blue data series." },
+      "green": { "$value": "{inferentics-primitive.green.450}", "$description": "Positive data series." },
+      "orange": { "$value": "{inferentics-primitive.orange.450}", "$description": "Warning data series." },
+      "red": { "$value": "{inferentics-primitive.red.450}", "$description": "Negative data series." },
+      "purple": { "$value": "{inferentics-primitive.purple.600}", "$description": "Purple data series." },
+      "neutral": { "$value": "{inferentics-primitive.ink.400}", "$description": "Neutral data series." }
+    },
+    "premium": {
+      "surface": { "$value": "{inferentics-primitive.purple.50}", "$description": "Premium/remediation feature outer surface." },
+      "border": { "$value": "{inferentics-primitive.purple.200}", "$description": "Premium/remediation feature border." },
+      "action": { "$value": "{inferentics-primitive.purple.600}", "$description": "Premium action button background." },
+      "content": { "$value": "{inferentics-primitive.purple.800}", "$description": "Premium heading and icon color." },
+      "glass": { "$value": "{inferentics-primitive.overlay.white-55}", "$description": "Premium inner glass card surface." },
+      "shadow": { "$value": "{inferentics-primitive.overlay.purple-16}", "$description": "Premium card shadow color." },
+      "accent-shadow": { "$value": "{inferentics-primitive.overlay.violet-18}", "$description": "Premium floating accent shadow color." }
+    },
+    "effect-color": {
+      "shadow-subtle": { "$value": "{inferentics-primitive.overlay.black-8}", "$description": "Subtle card shadow color." },
+      "shadow-default": { "$value": "{inferentics-primitive.overlay.black-10}", "$description": "Default card shadow color." },
+      "shadow-medium": { "$value": "{inferentics-primitive.overlay.black-12}", "$description": "Medium elevation shadow color." },
+      "shadow-strong": { "$value": "{inferentics-primitive.overlay.black-19}", "$description": "Strong compact shadow color." },
+      "shadow-navy": { "$value": "{inferentics-primitive.overlay.navy-16}", "$description": "Navy-tinted elevation shadow color." },
+      "inset-highlight": { "$value": "{inferentics-primitive.overlay.white-85}", "$description": "Inset card highlight color." },
+      "inset-highlight-soft": { "$value": "{inferentics-primitive.overlay.white-80}", "$description": "Soft inset highlight color." },
+      "scrim": { "$value": "{inferentics-primitive.overlay.black-36}", "$description": "Modal and media scrim color." }
+    },
+    "analytics": {
+      "brand": {
+        "primary": { "$value": "{inferentics-primitive.analytics.brand.green-600}", "$description": "Primary HOD analytics brand color used by report actions and active identity elements." },
+        "primary-hover": { "$value": "{inferentics-primitive.analytics.brand.green-700}", "$description": "Hover surface for primary HOD analytics actions such as View report." },
+        "on-primary": { "$value": "{base.white}", "$description": "Text and icons displayed on HOD analytics primary brand actions." }
+      },
+      "text": {
+        "strong": { "$value": "{inferentics-primitive.analytics.warm-neutral.950}", "$description": "Strong HOD analytics headings, exam titles, and score values." },
+        "primary": { "$value": "{inferentics-primitive.analytics.warm-neutral.900}", "$description": "Primary HOD analytics body and identity text." },
+        "secondary": { "$value": "{inferentics-primitive.analytics.warm-neutral.600}", "$description": "Secondary HOD analytics descriptions, metadata, and supporting labels." },
+        "tertiary": { "$value": "{inferentics-primitive.analytics.warm-neutral.350}", "$description": "Low-emphasis HOD analytics section labels and metadata." },
+        "control": { "$value": "{inferentics-primitive.analytics.warm-neutral.700}", "$description": "Text used by HOD analytics filters and inactive navigation controls." },
+        "disabled": { "$value": "{inferentics-primitive.analytics.warm-neutral.400}", "$description": "Disabled and upcoming-exam text in HOD analytics." },
+        "inverse": { "$value": "{base.white}", "$description": "HOD analytics text shown on deep-green actions and identity surfaces." },
+        "brand": { "$value": "{inferentics-primitive.analytics.brand.green-600}", "$description": "Brand-emphasis text used by active HOD analytics navigation and controls." }
+      },
+      "surface": {
+        "page": { "$value": "{stone.50}", "$description": "Warm off-white HOD analytics page canvas." },
+        "card": { "$value": "{base.white}", "$description": "HOD analytics exam-card, filter, dropdown, and dialog surface." },
+        "subtle": { "$value": "{inferentics-primitive.analytics.warm-neutral.200}", "$description": "Muted HOD analytics badge and low-emphasis inset surface." },
+        "avatar": { "$value": "{inferentics-primitive.analytics.green.100}", "$description": "Soft green HOD analytics profile-avatar surface." },
+        "interactive-hover": { "$value": "{inferentics-primitive.analytics.green.50}", "$description": "Pale green hover surface for HOD analytics cards and selectable controls." }
+      },
+      "border": {
+        "default": { "$value": "{inferentics-primitive.analytics.warm-neutral.200}", "$description": "Default HOD analytics card, filter, and dropdown border." },
+        "disabled": { "$value": "{inferentics-primitive.analytics.warm-neutral.300}", "$description": "Border of disabled upcoming-exam cards in HOD analytics." },
+        "interactive-hover": { "$value": "{inferentics-primitive.analytics.green.200}", "$description": "Green-tinted border shown when HOD analytics cards are hovered." }
+      },
+      "icon": {
+        "primary": { "$value": "{inferentics-primitive.analytics.warm-neutral.700}", "$description": "Primary HOD analytics control and navigation icon." },
+        "secondary": { "$value": "{inferentics-primitive.analytics.warm-neutral.600}", "$description": "Secondary HOD analytics metadata and supporting icon." },
+        "brand": { "$value": "{inferentics-primitive.analytics.brand.green-600}", "$description": "Brand-colored icon used by active HOD analytics navigation and actions." },
+        "disabled": { "$value": "{inferentics-primitive.analytics.warm-neutral.400}", "$description": "Disabled icon used by upcoming HOD analytics exam content." },
+        "inverse": { "$value": "{base.white}", "$description": "Icon displayed on HOD analytics deep-green actions." }
+      },
+      "navigation": {
+        "selected-surface": { "$value": "{inferentics-primitive.analytics.warm-neutral.100}", "$description": "Background of the selected HOD analytics sidebar destination." },
+        "selected-content": { "$value": "{inferentics-primitive.analytics.brand.green-600}", "$description": "Text and icon color of the selected HOD analytics sidebar destination." },
+        "default-content": { "$value": "{inferentics-primitive.analytics.warm-neutral.700}", "$description": "Text and icon color of inactive HOD analytics sidebar destinations." },
+        "section-label": { "$value": "{inferentics-primitive.analytics.warm-neutral.350}", "$description": "Uppercase section-label color in the HOD analytics sidebar." }
+      },
+      "performance": {
+        "positive": { "$value": "{green.600}", "$description": "Positive exam-change text and icon in HOD analytics." },
+        "positive-surface": { "$value": "{green.100}", "$description": "Background of the positive exam-change badge in HOD analytics." }
+      },
+      "status": {
+        "upcoming-surface": { "$value": "{inferentics-primitive.analytics.warm-neutral.100}", "$description": "Surface of an upcoming HOD analytics exam card." },
+        "upcoming-badge": { "$value": "{inferentics-primitive.analytics.warm-neutral.200}", "$description": "Background of the Upcoming label on an HOD analytics exam card." },
+        "upcoming-border": { "$value": "{inferentics-primitive.analytics.warm-neutral.300}", "$description": "Border of an upcoming HOD analytics exam card." },
+        "upcoming-content": { "$value": "{inferentics-primitive.analytics.warm-neutral.400}", "$description": "Text and icon color for unavailable upcoming HOD analytics exam content." }
+      },
+      "accent": {
+        "coral": { "$value": "{inferentics-primitive.analytics.coral.500}", "$description": "Coral HOD analytics accent marker used for small navigation and status details." }
+      },
+      "overlay": {
+        "dialog": { "$value": "{inferentics-primitive.analytics.overlay.ink-30}", "$description": "Scrim behind the HOD analytics Compare exams dialog." }
+      },
+      "shadow": {
+        "card": { "$value": "{inferentics-primitive.analytics.overlay.ink-4}", "$description": "Resting HOD analytics exam-card shadow color." },
+        "menu": { "$value": "{inferentics-primitive.analytics.overlay.ink-12}", "$description": "HOD analytics filter-dropdown shadow color." },
+        "hover": { "$value": "{inferentics-primitive.analytics.overlay.ink-8}", "$description": "Elevated HOD analytics card-hover shadow color." },
+        "action": { "$value": "{inferentics-primitive.analytics.overlay.brand-25}", "$description": "Deep-green shadow color beneath HOD analytics primary actions." },
+        "dialog": { "$value": "{inferentics-primitive.analytics.overlay.ink-28}", "$description": "HOD analytics Compare exams dialog shadow color." }
+      }
+    }
+  }
+}
